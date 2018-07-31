@@ -36,7 +36,7 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
+          "name": "GDG Medellin",
           "url": "http://lviv.gdg.org.ua/",
           "newTab": true
         },
@@ -260,7 +260,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Medellin</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"

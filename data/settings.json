@@ -114,17 +114,17 @@
   "location": {
     "label": "Location",
     "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "city": "Medellin",
+    "short": "Medellin, Colombia",
+    "address": "Medellin",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 6.25184,
+      "longitude": -75.56359,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 6.25184,
+      "longitude": -75.56359
     },
     "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
   },
