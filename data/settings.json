@@ -31,22 +31,18 @@
     {
       "route": "schedule",
       "permalink": "/schedule/",
-      "label": "Schedule"
+      "label": "Agenda"
     },
     {
       "route": "team",
       "permalink": "/team/",
-      "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
+      "label": "Equipo"
     }
+    
   ],
   "heroSettings": {
     "home": {
-      "description": "Be a hero. Be a GDG!",
+      "description": "Se un héroe. Se un GDG!",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -64,31 +60,31 @@
     "speakers": {
       "title": "Speakers",
       "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "description": "Conoce nuestros grandes Speakers, que están construyendo el futuro de la nube.",
       "background": {
         "color": "#FFF"
       },
       "fontColor": "#424242"
     },
     "previousSpeakers": {
-      "title": "Previous Speakers",
-      "metaDescription": "Check who was with us last years",
+      "title": "Speakers Anteriores",
+      "metaDescription": "Revisa quienes nos acompañaron el año pasado",
       "background": {
         "color": "#FFF"
       },
       "fontColor": "#424242"
     },
     "schedule": {
-      "title": "Schedule",
-      "metaDescription": "Choose your sessions to visit",
+      "title": "Agenda",
+      "metaDescription": "Revisa nuestra agenda",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
     },
     "team": {
-      "title": "Team",
-      "metaDescription": "Get more info about organizers",
+      "title": "Equipo",
+      "metaDescription": "Obtenga más información acerca de los organizadores",
       "background": {
         "color": "#fff"
       },
@@ -96,15 +92,15 @@
     },
     "faq": {
       "title": "FAQs",
-      "metaDescription": "Find you answer right here!",
+      "metaDescription": "Encuentra tu respuesta aquí!",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
     },
     "cod": {
-      "title": "Code Of Conduct",
-      "metaDescription": "Lear more about our expectations for all those who participate in our community",
+      "title": "Codigo de conducta",
+      "metaDescription": "Obtenga más información sobre nuestras expectativas para todos los que participan en nuestra comunidad",
       "background": {
         "color": "#fff"
       },
@@ -112,8 +108,8 @@
     }
   },
   "location": {
-    "label": "Location",
-    "name": "Planeta kino",
+    "label": "Ubicación",
+    "name": "Medellin",
     "city": "Medellin",
     "short": "Medellin, Colombia",
     "address": "Medellin",
@@ -126,7 +122,7 @@
       "latitude": 6.25184,
       "longitude": -75.56359
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Encuentra pronto información de la ubicación del evento"
   },
   "mediaQueries": {
     "xs": {
@@ -148,19 +144,11 @@
     "follow": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/gdgmedellin/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
-      },
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://twitter.com/gdgmed/"
       }
     ],
     "share": [
@@ -178,7 +166,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "gdgmedellindevs@googlegroups.com",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"

@@ -1,26 +1,26 @@
 {
   "title": "GDG DevFest Season 2018",
-  "description": "Be a hero. Be a GDG!",
+  "description": "Se un héroe. Se un GDG!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
+  "dates": "Diciembre, 2018",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
-  "share": "Share",
+  "share": "Comparte en",
   "followOur": "Follow our",
-  "followUs": "Follow us",
-  "emailUs": "Email us",
+  "followUs": "Síguenos",
+  "emailUs": "Escríbenos",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
   "buyTicket": "Buy ticket",
   "signIn": "Sign in",
   "signOut": "Sign out",
-  "viewHighlights": "View Highlights",
+  "viewHighlights": "Destacados",
   "offlineMessage": "You can still work offline.",
   "cachingComplete": "Caching complete! Future visits will work offline.",
   "newVersionAvailable": "A new version of this app is available.",
   "refresh": "Refresh",
   "position": "Position",
-  "country": "Country",
+  "country": "Pais",
   "time": "Time",
   "faq": "/data/faq.md",
   "cod": "/data/cod.md",
@@ -28,16 +28,16 @@
     "blog": "Blog"
   },
   "mySchedule": {
-    "title": "My Schedule",
+    "title": "Mi Agenda",
     "browseSession": "Browse sessions"
   },
   "footerRelBlock": [
     {
-      "title": "About",
+      "title": "Sobre",
       "links": [
         {
           "name": "GDG Medellin",
-          "url": "http://lviv.gdg.org.ua/",
+          "url": "https://www.meetup.com/GDG-Medellin/",
           "newTab": true
         },
         {
@@ -46,33 +46,23 @@
           "newTab": true
         },
         {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "name": "Conoce al equipo",
+          "url": "https://www.meetup.com/GDG-Medellin/members/",
           "newTab": true
         }
       ]
     },
     {
-      "title": "Explore Past DevFests",
+      "title": "Explore DevFests Anteriores",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "name": "DevFest 2015",
+          "url": "https://www.meetup.com/GDG-Medellin/events/223894406/",
           "newTab": true
         },
         {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
+          "name": "DevFest 2017",
+          "url": "https://www.meetup.com/GDG-Medellin/events/242741099/",
           "newTab": true
         }
       ]
@@ -109,33 +99,33 @@
     }
   ],
   "subscribeNote": "No spam, only the latest news and updates!",
-  "codeOfConduct": "Code of Conduct",
+  "codeOfConduct": "Codigo de conducta",
   "aboutBlock": {
-    "title": "What you need to know, before you ask.",
+    "title": "Lo que necesitas saber:",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
+        "description": "GDG DevFest Medellín, brinda a la comunidad talleres, charlas y mucho networking para que aprendas sobre las últimas tecnologías.",
         "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
+        "description": "Descrito como un espacio para compartir experiencias en un ambiente fenomenal.",
         "label": "See how it was in 2016",
         "youtubeId": "TdpbgRgz6eE"
       }
     },
     "statisticsBlock": {
       "attendees": {
-        "label": "Attendees",
-        "number": "900"
+        "label": "Asistentes",
+        "number": "200"
       },
       "days": {
-        "label": "Days",
-        "number": "2"
+        "label": "Dias",
+        "number": "01"
       },
       "sessions": {
-        "label": "Sessions",
-        "number": "50"
+        "label": "Sesiones",
+        "number": "10"
       },
       "tracks": {
         "label": "Tracks",
@@ -145,9 +135,9 @@
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
-    "soldOut": "You missed it!",
-    "notAvailableYet": "Not available yet",
+    "ticketsDetails": "Tickets te otorgaran acceso a todas las secciones de la conferencia.",
+    "soldOut": "¡Lo perdíste!",
+    "notAvailableYet": "Aun no está disponible",
     "save": "Save ${discount}% today"
   },
   "partnersBlock": {
@@ -199,20 +189,22 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "#Devfest17",
+    "description": "Revisa las fotos de las charlas, de nuestros eventos anteriores.",
     "callToAction": {
-      "label": "See all photos",
+      "label": "Ver todas las fotos",
       "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
     }
   },
   "mapBlock": {
-    "title": "Location"
+    "title": "Ubicación"
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "description": "Recibe notificaciones sobre las actualizaciones importantes de la conferencia",
+      "label": "Suscríbete a nuestro Meetup",
+      "link": "https://www.meetup.com/GDG-Medellin/",
+      "newTab": true
     },
     "yourEmail": "Your email",
     "emailAddress": "Email Address",
@@ -227,7 +219,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Google es conocido en todo el mundo. Todos quieren saber como funcionan las tecnologías de Google, desde sus 'mapas', hasta su sistema de correo: 'gmail'. Para usuarios simples, son servicios que simplemente funcionan, pero no para nosotros. Los desarrolladores ven mucho más alla: API, problemas de escalabilidad. Y de eso se trata el GDG. <br> <br> [Google Developers Group (GDG) Medellín] (https://www.meetup.com/GDG-Medellin/) - es una comunidad que comparte conocimiento  y  experiencias en tecnologías de Google con pasión. <br> <br> Nuestro objetivo es organizar espacios para brindarle a la comunidad talleres, charlas y mucho networking para que aprendas sobre las últimas tecnologías."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -259,18 +251,18 @@
     "image": "/images/team.jpg",
     "blocks": [
       {
-        "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Medellin</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "title": "Organizadores",
+        "description": "<a href='https://www.meetup.com/GDG-Medellin/' target='_blank'>GDG Medellin</a> es una comunidad local que organiza meetups para los interesados en las tecnologías de Google.",
         "callToAction": {
-          "label": "Open team page",
+          "label": "Pagina del equipo",
           "link": "/team"
         }
       },
       {
-        "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "title": "Qué es GDG?",
+        "description": "GLos Google Developer Groups (GDGs), fueron  creados con el objetivo de mejorar la comunidad de entusiastas tecnológicos y aumentar el conocimiento y las relaciones entre las personas que se dedican a esta área.",
         "callToAction": {
-          "label": "Read more",
+          "label": "Lee más",
           "link": "https://developers.google.com/groups/",
           "newTab": true
         }
