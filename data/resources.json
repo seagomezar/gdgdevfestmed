@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Season 2018",
+  "title": "GDG DevFest 2018",
   "description": "Se un héroe. Se un GDG!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "Diciembre, 2018",
+  "dates": "Diciembre 1, 2018",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Comparte en",
   "followOur": "Follow our",
@@ -11,7 +11,7 @@
   "emailUs": "Escríbenos",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "Registro",
   "signIn": "Sign in",
   "signOut": "Sign out",
   "viewHighlights": "Destacados",
@@ -125,7 +125,7 @@
       },
       "sessions": {
         "label": "Sesiones",
-        "number": "10"
+        "number": "8"
       },
       "tracks": {
         "label": "Tracks",
@@ -134,8 +134,8 @@
     }
   },
   "ticketsBlock": {
-    "title": "Tickets",
-    "ticketsDetails": "Tickets te otorgaran acceso a todas las secciones de la conferencia.",
+    "title": "Registro",
+    "ticketsDetails": "Registrate para que puedas tener acceso a todo el evento.",
     "soldOut": "¡Lo perdíste!",
     "notAvailableYet": "Aun no está disponible",
     "save": "Save ${discount}% today"
@@ -193,7 +193,7 @@
     "description": "Revisa las fotos de las charlas, de nuestros eventos anteriores.",
     "callToAction": {
       "label": "Ver todas las fotos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "link": "https://www.meetup.com/GDG-Medellin/photos/"
     }
   },
   "mapBlock": {
@@ -260,7 +260,7 @@
       },
       {
         "title": "Qué es GDG?",
-        "description": "GLos Google Developer Groups (GDGs), fueron  creados con el objetivo de mejorar la comunidad de entusiastas tecnológicos y aumentar el conocimiento y las relaciones entre las personas que se dedican a esta área.",
+        "description": "Los Google Developer Groups (GDGs), fueron  creados con el objetivo de mejorar la comunidad de entusiastas tecnológicos y aumentar el conocimiento y las relaciones entre las personas que se dedican a esta área.",
         "callToAction": {
           "label": "Lee más",
           "link": "https://developers.google.com/groups/",

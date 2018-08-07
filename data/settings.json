@@ -109,20 +109,20 @@
   },
   "location": {
     "label": "Ubicación",
-    "name": "Medellin",
+    "name": "Ruta N",
     "city": "Medellin",
     "short": "Medellin, Colombia",
-    "address": "Medellin",
+    "address": "Calle 67 N° 52-20, Barrio Sevilla de Medellín, Colombia",
     "pointer": {
-      "latitude": 6.25184,
-      "longitude": -75.56359,
+      "latitude": 6.264688,
+      "longitude": -75.566906,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": 6.25184,
-      "longitude": -75.56359
+      "latitude": 6.264688,
+      "longitude": -75.566906
     },
-    "description": "Encuentra pronto información de la ubicación del evento"
+    "description": "GDG DevFest Medellín, tendra lugar en el Complejo Ruta N"
   },
   "mediaQueries": {
     "xs": {
