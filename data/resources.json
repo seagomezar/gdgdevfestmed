@@ -120,12 +120,12 @@
         "number": "200"
       },
       "days": {
-        "label": "Dias",
+        "label": "Dia",
         "number": "01"
       },
       "sessions": {
         "label": "Sesiones",
-        "number": "8"
+        "number": "06"
       },
       "tracks": {
         "label": "Tracks",
