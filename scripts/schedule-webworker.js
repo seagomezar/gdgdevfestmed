@@ -67,61 +67,58 @@ self.addEventListener('message', ({ data }) => {
     for (let timeslotsIndex = 0; timeslotsIndex < timeslotLen; timeslotsIndex++) {
       const timeslot = day.timeslots[timeslotsIndex];
       let innerSessions = [];
-
       const sessionsLen = timeslot.sessions.length;
       for (let sessionIndex = 0; sessionIndex < sessionsLen; sessionIndex++) {
         let subSessions = [];
-
         const subSessionsLen = timeslot.sessions[sessionIndex].items.length;
         for (let subSessionIndex = 0; subSessionIndex < subSessionsLen; subSessionIndex++) {
           const sessionId = timeslot.sessions[sessionIndex].items[subSessionIndex];
           const subsession = sessionsRaw[sessionId];
-          const mainTag = subsession.tags ? subsession.tags[0] : 'General';
-          const endTimeRaw = timeslot.sessions[sessionIndex].extend
-            ? day.timeslots[timeslotsIndex + timeslot.sessions[sessionIndex].extend - 1].endTime
-            : timeslot.endTime;
-          const endTime = subSessionsLen > 1
-            ? getEndTime(
-              dayKey,
-              timeslot.startTime,
-              endTimeRaw,
-              subSessionsLen,
-              subSessionIndex + 1
-            )
-            : endTimeRaw;
-          const startTime = subSessionsLen > 1 && subSessionIndex > 0
-            ? sessions[timeslot.sessions[sessionIndex].items[subSessionIndex - 1]].endTime
-            : timeslot.startTime;
-
-          if (subsession.tags) {
-            dayTags = [...new Set([...dayTags, ...subsession.tags])];
-          }
-          scheduleTags = addTagTo(scheduleTags || [], mainTag);
-
-          const finalSubSession = Object.assign({}, subsession, {
-            mainTag,
-            id: sessionId.toString(),
-            day: dayKey,
-            track: subsession.track || day.tracks[sessionIndex],
-            startTime,
-            endTime,
-            duration: getDuration(dayKey, startTime, endTime),
-            dateReadable: day.dateReadable,
-            speakers: subsession.speakers ? subsession.speakers.map((speakerId) => Object.assign({
-              id: speakerId,
-            }, speakersRaw[speakerId], {
-              sessions: null,
-            })) : [],
-          });
-
-          subSessions.push(finalSubSession);
-          sessions[sessionId] = finalSubSession;
-          if (subsession.speakers) {
-            speakers = Object.assign(
-              {},
-              speakers,
-              updateSpeakersSessions(speakersRaw, subsession.speakers, finalSubSession)
-            );
+          if (subsession) {
+            const mainTag = subsession.tags ? subsession.tags[0] : 'General';
+            const endTimeRaw = timeslot.sessions[sessionIndex].extend
+              ? day.timeslots[timeslotsIndex + timeslot.sessions[sessionIndex].extend - 1].endTime
+              : timeslot.endTime;
+            const endTime = subSessionsLen > 1
+              ? getEndTime(
+                dayKey,
+                timeslot.startTime,
+                endTimeRaw,
+                subSessionsLen,
+                subSessionIndex + 1
+              )
+              : endTimeRaw;
+            const startTime = subSessionsLen > 1 && subSessionIndex > 0
+              ? sessions[timeslot.sessions[sessionIndex].items[subSessionIndex - 1]].endTime
+              : timeslot.startTime;
+            if (subsession.tags) {
+              dayTags = [...new Set([...dayTags, ...subsession.tags])];
+            }
+            scheduleTags = addTagTo(scheduleTags || [], mainTag);
+            const finalSubSession = Object.assign({}, subsession, {
+              mainTag,
+              id: sessionId.toString(),
+              day: dayKey,
+              track: subsession.track || day.tracks[sessionIndex],
+              startTime,
+              endTime,
+              duration: getDuration(dayKey, startTime, endTime),
+              dateReadable: day.dateReadable,
+              speakers: subsession.speakers ? subsession.speakers.map((speakerId) => Object.assign({
+                id: speakerId,
+              }, speakersRaw[speakerId], {
+                sessions: null,
+              })) : [],
+            });
+            subSessions.push(finalSubSession);
+            sessions[sessionId] = finalSubSession;
+            if (subsession.speakers) {
+              speakers = Object.assign(
+                {},
+                speakers,
+                updateSpeakersSessions(speakersRaw, subsession.speakers, finalSubSession)
+              );
+            }
           }
         }
 
@@ -130,7 +127,6 @@ self.addEventListener('message', ({ data }) => {
         (timeslot.sessions[sessionIndex].extend || 0) + 1} / ${sessionsLen !== 1
           ? sessionIndex + 2 : Object.keys(extensions).length ? Object.keys(extensions)[0]
             : tracksNumber + 1}`;
-
         if (timeslot.sessions[sessionIndex].extend) {
           extensions[sessionIndex + 1] = timeslot.sessions[sessionIndex].extend;
         }
