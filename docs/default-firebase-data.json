@@ -369,8 +369,8 @@
     "members" : [ {
       "name" : "Sebastian Gomez",
       "badges" : [ {
-        "description" : "Google Developers Group Medellin",
-        "link" : "https://developers.google.com/groups/chapter/110301321530950732281/",
+        "description" : "Google Developers Group Medellín",
+        "link" : "https://www.meetup.com/GDG-Medellin/",
         "name" : "gdg"
       } ],
       "bio" : "Ingeniero de sistemas e Informática y Magister en Ingeniería de Sistemas. FrontEnd Developer y Organizador del GDG Medellín",
@@ -401,8 +401,8 @@
         "link" : "https://developers.google.com/experts/people/valentyn-shybanov.html",
         "name" : "gdp"
       }, {
-        "description" : "Google Developers Group Kyiv",
-        "link" : "https://developers.google.com/groups/chapter/110301321530950732281/",
+        "description" : "Google Developers Group Medellín",
+        "link" : "https://www.meetup.com/GDG-Medellin/",
         "name" : "gdg"
       } ],
       "bio" : "Google Product Strategy Expert. Web UI en Globant. Interesado principalmente en Progressive Web Apps, Angular y Firebase. En mi tiempo libre escribo libros y hago videos en Youtube.",
@@ -418,8 +418,45 @@
         "name" : "Website"
       } ],
       "title" : "Google Product Strategy Expert"
-    } ],
-    "title" : "Core Team"
+    }, {
+      "name" : "Vanessa Aristizabal",
+      "badges" : [ {
+        "description" : "Google Developers Group Medellín",
+        "link" : "https://www.meetup.com/GDG-Medellin/",
+        "name" : "gdg"
+      } ],
+      "bio" : "Front-end Developer y Web UI en Globant",
+      "photo" : "/images/people/vanessa_aristizabal.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/vanessa_aristizabal.JPG?alt=media&token=6213c31f-a61f-403d-91cd-561b13d72420",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/vanessamarely",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/vanessamarely",
+        "name" : "Github"
+      } ],
+      "title" : "Front-end Developer"
+    },  {
+      "name" : "Marian Villa",
+      "badges" : [ {
+        "description" : "Google Developers Group Medellín",
+        "link" : "https://www.meetup.com/GDG-Medellin/",
+        "name" : "gdg"
+      } ],
+      "bio" : "Líder en Pioneras Dev",
+      "photo" : "/images/people/marian_villa.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/marian_villa.jpg?alt=media&token=b86065dc-9350-4d59-ac2c-69a124e3be5c",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Marianvilla",
+        "name" : "Twitter"
+      }],
+      "title" : "Front-end Developer"
+    }
+   ],
+    "title" : "Organizadores"
   }, {
     "members" : [ {
       "name" : "Sebastian Gomez",
@@ -447,46 +484,22 @@
         "link" : "www.sebastian-gomez.com",
         "name" : "Website"
       }],
-      "title" : "Frontend Architect"
-    }, {
-      "name" : "Carlos Rojas",
-      "badges" : [ {
-        "description" : "Google Product Strategy Expert",
-        "link" : "https://developers.google.com/experts/people/valentyn-shybanov.html",
-        "name" : "gdp"
-      }, {
-        "description" : "Google Developers Group Kyiv",
-        "link" : "https://developers.google.com/groups/chapter/110301321530950732281/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Google Product Strategy Expert. Web UI en Globant. Interesado principalmente en Progressive Web Apps, Angular y Firebase. En mi tiempo libre escribo libros y hago videos en Youtube.",
-      "photo" : "/images/people/carlos_rojas.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/carlos_rojas.jpg?alt=media&token=22e14b99-6606-4660-bd3f-558bf31c629f",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/carlosrojas_o",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "https://www.ng-classroom.com/",
-        "name" : "Website"
-      } ],
-      "title" : "Google Product Strategy Expert"
+      "title" : "Front-end Architect"
     } ],
-    "title" : "Organizadores"
-  } ],
+    "title" : "Comité"
+    } ],
   "tickets" : [ {
     "available" : true,
     "currency" : "$",
-    "ends" : "Noviembre 20",
+    "ends" : "Noviembre",
     "inDemand" : true,
     "info" : "tickets",
-    "name" : "Early Bird",
+    "name" : "Registro de entrada",
     "price" : 0,
     "regular" : true,
     "soldOut" : false,
-    "starts" : "Septiembre 15",
-    "url" : "https://2event.com/events/1027108"
+    "starts" : "Agosto",
+    "url" : "https://www.eventbrite.com/e/gdg-devfest-2018-tickets-49176477167"
   } ],
   "triggers" : {
     "images" : false
