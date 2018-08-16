@@ -87,7 +87,7 @@
         },
         {
           "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
+          "url": "https://sessionize.com/devfest-2018",
           "newTab": true
         },
         {
@@ -120,8 +120,8 @@
         "number": "200"
       },
       "days": {
-        "label": "Dia",
-        "number": "01"
+        "label": "Horas",
+        "number": "08"
       },
       "sessions": {
         "label": "Sesiones",

@@ -187,66 +187,66 @@
   "sessions" : {
     "101" : {
       "complexity" : "Beginner",
-      "description" : "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
+      "description" : "TBD",
+      "language" : "Español",
+      "presentation" : "TBD",
       "speakers" : [ "diego_coy"],
       "tags" : [ "Web" ],
-      "title" : "Web"
+      "title" : "TBD"
     },
     "102" : {
       "complexity" : "Beginner",
-      "description" : "Do you remember the game Simon says from the 80s? I don’t know about you, but I know many that spent hours trying to press those specific sequences of red, green, blue and yellow buttons in the correct order. But why play on your own? We’ve implemented a gRPC server that allows you to play Simon with other players over the internet!\n\nIn this workshop we will dive into the toolset and libraries to build your very own Simon Says client for this server. We will have a message description in Protocol Buffers format and some stub code in several languages ready for you to play with. The goal for this workshop is for you to have a working client that you can use to play (and beat!) other attendees of the workshop.",
-      "language" : "English",
+      "description" : "TBD",
+      "language" : "Español",
       "speakers" : [ "juan_guillermo" ],
       "tags" : [ "Firebase" ],
-      "title" : "Firebase"
+      "title" : "TBD"
     },
     "103" : {
       "complexity" : "Intermediate",
-      "description" : "Doze mode is just around the corner. \nIntroduced in Marshmallow, as the shy guy that was allowed to step in only when your device went to sleep. ZzzZzzzz\nWith the new N release, Doze mode becomes the rockstar. He rushes into the room with a big shabang by shooting all background services and network requests that forgot to get away. \nHe should no longer be shy. He just shoots and dances on bones of your scheduled alarms, while you wonder why this particular task is no longer running.\nWith the new Doze mode, you require to adapt your app architecture to the new reality.\nOn this talk, we will learn how to survive Doze mode using Job Scheduler, Content Provider and stay in one piece.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze",
-      "speakers" : [ "lorem_ipsum" ],
-      "tags" : [ "Android" ],
-      "title" : "Knock knock! Who's there? Doze."
+      "description" : "TBD",
+      "language" : "Español",
+      "presentation" : "TBD",
+      "speakers" : [ "speaker" ],
+      "tags" : [ "Speaker" ],
+      "title" : "TBD"
     },
     "104" : {
       "complexity" : "Beginner",
-      "description" : "It's no longer just about digitizing our environment. It’s rather about pervasive and ubiquitous computing. Almost all everyday things will turn into connected devices soon. This “Internet of Things” will allow the Web to be physically tangible. But what is the value, and how can one prevent IoT applications which just seem to be only more expensive and complicated than conventional solutions. Sascha will discuss the purpose and guide you through this complex topic showing inspiring solutions, tips from practice, and code samples in a variety of technologies from simple Bluetooth Eddystone Beacons to more sophisticated IoT platforms like Eclipse SmartHome.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/sascha-wolter-the-physical-web-context-is-king",
-      "speakers" : [ "lorem_ipsum" ],
-      "tags" : [ "Web" ],
-      "title" : "The Physical Web: Context is King!"
+      "description" : "TBD",
+      "language" : "Español",
+      "presentation" : "TBD",
+      "speakers" : [ "speaker" ],
+      "tags" : [ "Speaker" ],
+      "title" : "TBD"
     },
     "105" : {
       "complexity" : "Intermediate",
       "description" : "TBD",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow",
-      "speakers" : [ "lorem_ipsum" ],
+      "presentation" : "TBD",
+      "speakers" : [ "speaker" ],
       "tags" : [ "Cloud" ],
-      "title" : "Intro to TensorFlow"
+      "title" : "TBD"
     },
     "106" : {
       "complexity" : "Intermediate",
       "description" : "TBD",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow",
-      "speakers" : [ "lorem_ipsum" ],
+      "presentation" : "TBD",
+      "speakers" : [ "speaker" ],
       "tags" : [ "Cloud" ],
-      "title" : "Intro to TensorFlow"
+      "title" : "TBD"
     },
     "107" : {
-      "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
+      "description" : "Registrate y disfruta de las charlas",
       "icon" : "registration",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
       "tags" : [ "General" ],
       "title" : "Registro"
     },
     "108" : {
-      "description" : "Coffeeeeeee!",
+      "description" : "Breakkkk!",
       "icon" : "coffee-break",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
       "tags" : [ "General" ],
@@ -257,11 +257,11 @@
       "icon" : "opening",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "tags" : [ "General" ],
-      "language" : "English",
+      "language" : "Español",
       "title" : "GDG DevFest Medellin 2018 Apertura"
     },
     "110" : {
-      "description" : "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
+      "description" : "Cierre del evento",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
       "tags" : [ "General" ],
       "title" : "Cierre de la Conferencia"
@@ -269,279 +269,223 @@
   },
   "speakers" : {
     "diego_coy" : {
-      "bio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
-      "company" : "Google",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Mete is a Developer Advocate at Google Advocate at Google Advocate at Google at London, United Kingdom",
-      "featured" : true,
-      "name" : "Diego Coy",
-      "photo" : "/images/people/mete_atamel.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/mete_atamel.jpg",
-      "shortBio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/meteatamel/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/meteatamel/",
-        "name" : "Twitter"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/meteatamel/",
-        "name" : "GitHub"
-      } ],
-      "title" : "Developer Advocate"
-    },
-    "juan_guillermo" : {
-      "bio" : "Michael is a software engineer at Stanfy. He is KPI FICT Computer Science graduate and has 4+ years in Android development. Michael moderates KyivAndroidDevClub. Besides programming, he is a capoeira player.",
-      "company" : "Stanfy",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Kyiv, Ukraine",
-      "featured" : false,
-      "name" : "Juan Guillermo",
-      "photo" : "/images/people/michael_pustovit.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/michael_pustovit.jpg",
-      "shortBio" : "Michael is a software engineer at Stanfy. He is KPI FICT Computer Science graduate and has 4+ yea...",
-      "socials" : [ {
-        "icon" : "github",
-        "link" : "https://github.com/lampapos",
-        "name" : "GitHub"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/pustovit",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/pustovit",
-        "name" : "Twitter"
-      } ],
-      "title" : "Senior Android Developer"
-    },
-    "lorem_ipsum" : {
-      "bio" : "Paul is CTO and co-founder of Pixplicity, Holland's leading Android-specific consulting and app-building company. He applies his knowledge of Java, Android and Linux in Pixplicity to develop high-quality apps and provide technical solutions for customers such as Mercedes-Benz, Nestlé, De Telegraaf, AGIS and De Consumentenbond.",
-      "company" : "Pixplicity",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Amsterdam, The Netherlands",
-      "featured" : true,
-      "name" : "Paul Lammertsma",
-      "photo" : "/images/people/paul_lammertsma.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/paul_lammertsma.jpg",
-      "shortBio" : "Paul is CTO and co-founder of Pixplicity, Holland's leading Android-specific consulting and app-b...",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/u/0/+PaulLammertsma",
-        "name" : "Google+"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/officesunshine",
-        "name" : "Twitter"
-      } ],
-      "title" : "CTO"
-    },
-    "sebastian_gomez" : {
       "badges" : [ {
-        "description" : "Google Developers Group Kyiv",
-        "link" : "https://developers.google.com/groups/chapter/110301321530950732281/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Sergiy is an android developer that has experience from building apps from scratch to developing android based sdks and libraries for other applications. He has more than 10 applications successfully published on Google Play. Former GDG chapter lead in Nikolaev. Currently he is leading a team that builds broker software for 60+ different brokers.",
-      "company" : "Leverate",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Kyiv,  Ukraine",
-      "featured" : false,
-      "name" : "Sergiy Mokienko",
-      "photo" : "/images/people/sergiy_mokienko.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/sergiy_mokienko.jpg",
-      "shortBio" : "Sergiy is an android developer that has experience from building apps from scratch to developing...",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/sergiy-mokienko-76891359",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/Korwin22",
-        "name" : "Facebook"
-      }, {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/107094180736796042888",
-        "name" : "Google+"
-      } ],
-      "title" : "Android Team Lead"
-    },
-    "carlos_rojas" : {
-      "badges" : [ {
-        "description" : "Cloud Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/valentyn-shybanov.html",
+        "description" : "GDE Web Technologies",
+        "link" : "https://developers.google.com/experts/people/diego-coy",
         "name" : "gde"
       }, {
-        "description" : "Google Developers Group Kyiv",
-        "link" : "https://developers.google.com/groups/chapter/110301321530950732281/",
+        "description" : "Google Developers Group Bogotá",
+        "link" : "https://www.meetup.com/gdgbogota/",
         "name" : "gdg"
       } ],
-      "bio" : "Google Developer Expert on Cloud. Co-organizer of GDG Kyiv-Center.",
-      "company" : "Wolters Kluwer",
+      "bio" : "Gestor de comunidades dedicado ayudar a transmitir conocimiento. Organizador en GDG Bogotá, Angular Colombia, Facebook Developers Circle: Bogotá y Women Techmakers Bogotá. También hago aplicaciones web.",
+      "company" : "Globant",
+      "companyLogo" : "/images/logos/logo_globant.svg",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/logo_globant.svg?alt=media&token=979f44fe-5c2e-442f-8249-6d044b76ddae",
+      "country" : "Colombia",
+      "featured" : true,
+      "name" : "Diego Coy",
+      "photo" : "/images/people/diego_coy.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/diego_coy.jpg?alt=media&token=be3a328a-3c54-4654-a5dd-5076ff43b16f",
+      "shortBio" : "Gestor de comunidades dedicado ayudar a transmitir conocimiento...",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://co.linkedin.com/in/diegocoy",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://es-la.facebook.com/public/Diego-Coy",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/unJavaScripter",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/unjavascripter",
+        "name" : "GitHub"
+      } ],
+      "title" : "GDE Web Technologies"
+    },
+    "juan_guillermo" : {
+      "badges" : [ {
+        "description" : "GDE Firebase",
+        "link" : "https://developers.google.com/experts/people/juan-guillermo-gomez-torres",
+        "name" : "gde"
+      } ],
+      "bio" : "Executive Hacker, pasión por la tecnología, creatividad, innovación, aprendizaje y los negocios.",
+      "company" : "Escuela DevHack",
+      "companyLogo" : "/images/logos/dev-hack.jpg",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/dev-hack.jpg?alt=media&token=6e2371ae-fd5a-45ba-acb6-2193349adf41",
+      "country" : "Colombia",
+      "featured" : false,
+      "name" : "Juan Guillermo Gomez",
+      "photo" : "/images/people/juan_guillermo.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/juan_guillermo.jpg?alt=media&token=773e9c27-d7cd-43c2-b2ff-0bdf80425252",
+      "shortBio" : "Executive Hacker, pasión por la tecnología...",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/jggomezt/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/jggomez",
+        "name" : "GitHub"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://es-la.facebook.com/public/Juan-Guillermo-Gomez",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/jggomezt",
+        "name" : "Twitter"
+      } ],
+      "title" : "GDE Firebase"
+    },
+    "speaker" : {
+      "bio" : "Speaker",
+      "company" : "speaker",
       "companyLogo" : "/images/logos/gdg-lviv.svg",
       "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Kyiv, Ukraine",
-      "featured" : false,
-      "name" : "Valentyn Shybanov",
-      "photo" : "/images/people/valentyn_shybanov.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/valentyn_shybanov.jpg",
-      "shortBio" : "Google Developer Expert on Cloud. Co-organizer of GDG Kyiv-Center.",
+      "country" : "Colombia",
+      "featured" : true,
+      "name" : "Speaker",
+      "photo" : "/images/people/man.svg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/man.svg?alt=media&token=13253190-2252-4592-a36a-c3e4aa5b60a3",
+      "shortBio" : "Speaker...",
       "socials" : [ {
         "icon" : "gplus",
-        "link" : "https://google.com/+ValentynShybanov",
+        "link" : "https://plus.google.com/",
         "name" : "Google+"
       }, {
-        "icon" : "website",
-        "link" : "http://olostan.name/",
-        "name" : "Website"
+        "icon" : "twitter",
+        "link" : "https://twitter.com/",
+        "name" : "Twitter"
       } ],
-      "title" : "Software Engineer/Country Manager"
+      "title" : "TBD"
     }
   },
   "team" : [ {
     "members" : [ {
       "name" : "Sebastian Gomez",
-      "photo" : "/images/people/oleh_zasadnyy.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/oleh_zasadnyy.jpg",
+      "badges" : [ {
+        "description" : "Google Developers Group Medellin",
+        "link" : "https://developers.google.com/groups/chapter/110301321530950732281/",
+        "name" : "gdg"
+      } ],
+      "bio" : "Ingeniero de sistemas e Informática y Magister en Ingeniería de Sistemas. FrontEnd Developer y Organizador del GDG Medellín",
+      "photo" : "/images/people/sebastian_gomez.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/sebastian_gomez.jpg?alt=media&token=dbf1135a-081e-4d64-82c6-238fa23b172d",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+OlehZasadnyy",
-        "name" : "Google+"
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/sebastian-gomez-frontend/",
+        "name" : "LinkedIn"
       }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/oleh.zasadnyy",
-        "name" : "Facebook"
+        "icon" : "github",
+        "link" : "https://github.com/jggomez",
+        "name" : "GitHub"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/ozasadnyy",
+        "link" : "https://twitter.com/sebasgojs",
         "name" : "Twitter"
       }, {
         "icon" : "website",
-        "link" : "http://o.zasadnyy.com/",
-        "name" : "Blog"
-      } ],
-      "title" : "Website and sponsors"
+        "link" : "www.sebastian-gomez.com",
+        "name" : "Website"
+      }],
+      "title" : "Frontend Architect"
     }, {
       "name" : "Carlos Rojas",
-      "photo" : "/images/people/ostap_andrusiv.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/ostap_andrusiv.jpg",
+      "badges" : [ {
+        "description" : "Google Product Strategy Expert",
+        "link" : "https://developers.google.com/experts/people/valentyn-shybanov.html",
+        "name" : "gdp"
+      }, {
+        "description" : "Google Developers Group Kyiv",
+        "link" : "https://developers.google.com/groups/chapter/110301321530950732281/",
+        "name" : "gdg"
+      } ],
+      "bio" : "Google Product Strategy Expert. Web UI en Globant. Interesado principalmente en Progressive Web Apps, Angular y Firebase. En mi tiempo libre escribo libros y hago videos en Youtube.",
+      "photo" : "/images/people/carlos_rojas.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/carlos_rojas.jpg?alt=media&token=22e14b99-6606-4660-bd3f-558bf31c629f",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://google.com/+OstapAndrusiv",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/ostap.andrusiv",
-        "name" : "Facebook"
-      }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/p1f",
+        "link" : "https://twitter.com/carlosrojas_o",
         "name" : "Twitter"
       }, {
         "icon" : "website",
-        "link" : "http://andrusiv.com/",
-        "name" : "Blog"
+        "link" : "https://www.ng-classroom.com/",
+        "name" : "Website"
       } ],
-      "title" : "Sponsors"
+      "title" : "Google Product Strategy Expert"
     } ],
     "title" : "Core Team"
   }, {
     "members" : [ {
       "name" : "Sebastian Gomez",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/idvoretskyi",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/idvoretskyi",
-        "name" : "Twitter"
+      "badges" : [ {
+        "description" : "Google Developers Group Medellin",
+        "link" : "https://developers.google.com/groups/chapter/110301321530950732281/",
+        "name" : "gdg"
       } ],
-      "title" : "Cloud stream"
-    }, {
-      "name" : "Carlos Rojas",
-      "photo" : "/images/people/dmytro_danylyk.jpg",
-      "photoUrl" : "",
+      "photo" : "/images/people/sebastian_gomez.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/sebastian_gomez.jpg?alt=media&token=dbf1135a-081e-4d64-82c6-238fa23b172d",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DmytroDanylyk",
-        "name" : "Google+"
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/sebastian-gomez-frontend/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/jggomez",
+        "name" : "GitHub"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/dmytrodanylyk",
+        "link" : "https://twitter.com/sebasgojs",
         "name" : "Twitter"
       }, {
         "icon" : "website",
-        "link" : "http://www.dmytrodanylyk.com/#/about",
+        "link" : "www.sebastian-gomez.com",
+        "name" : "Website"
+      }],
+      "title" : "Frontend Architect"
+    }, {
+      "name" : "Carlos Rojas",
+      "badges" : [ {
+        "description" : "Google Product Strategy Expert",
+        "link" : "https://developers.google.com/experts/people/valentyn-shybanov.html",
+        "name" : "gdp"
+      }, {
+        "description" : "Google Developers Group Kyiv",
+        "link" : "https://developers.google.com/groups/chapter/110301321530950732281/",
+        "name" : "gdg"
+      } ],
+      "bio" : "Google Product Strategy Expert. Web UI en Globant. Interesado principalmente en Progressive Web Apps, Angular y Firebase. En mi tiempo libre escribo libros y hago videos en Youtube.",
+      "photo" : "/images/people/carlos_rojas.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/carlos_rojas.jpg?alt=media&token=22e14b99-6606-4660-bd3f-558bf31c629f",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/carlosrojas_o",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "https://www.ng-classroom.com/",
         "name" : "Website"
       } ],
-      "title" : "Android Stream"
+      "title" : "Google Product Strategy Expert"
     } ],
-    "title" : "Program Committee"
+    "title" : "Organizadores"
   } ],
   "tickets" : [ {
     "available" : true,
     "currency" : "$",
-    "ends" : "Oct 13",
-    "info" : "Requires valid student/lecturer ID",
-    "name" : "EDU",
-    "price" : 80,
-    "soldOut" : false,
-    "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : false,
-    "currency" : "$",
-    "ends" : "Mar 31",
-    "inDemand" : false,
-    "info" : "Or first 50 tickets",
-    "name" : "Pre Early Bird",
-    "price" : 100,
-    "regular" : true,
-    "soldOut" : true,
-    "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : true,
-    "currency" : "$",
-    "ends" : "Jun 30",
+    "ends" : "Noviembre 20",
     "inDemand" : true,
-    "info" : "Or first 200 tickets",
+    "info" : "tickets",
     "name" : "Early Bird",
-    "price" : 120,
+    "price" : 0,
     "regular" : true,
     "soldOut" : false,
-    "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : false,
-    "currency" : "$",
-    "ends" : "Sep 30",
-    "inDemand" : false,
-    "info" : "Or first 350 tickets",
-    "name" : "Regular",
-    "price" : 160,
-    "primary" : true,
-    "regular" : true,
-    "soldOut" : false,
-    "starts" : "Jul 1",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : true,
-    "currency" : "$",
-    "info" : "Money worth nothing when you love it",
-    "name" : "I Love DFUA",
-    "price" : 280,
-    "soldOut" : false,
+    "starts" : "Septiembre 15",
     "url" : "https://2event.com/events/1027108"
   } ],
   "triggers" : {
@@ -555,89 +499,133 @@
   } ],
   "previousSpeakers": {
     "sebastian_gomez" : {
-      "bio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
-      "company" : "Sygic",
-      "companyLogo" : "https://dfua16.firebaseapp.com//images/logos/sygic.svg",
-      "country" : "Poland",
+      "badges" : [ {
+        "description" : "Google Developers Group Medellin",
+        "link" : "https://developers.google.com/groups/chapter/110301321530950732281/",
+        "name" : "gdg"
+      } ],
+      "bio" : "Ingeniero de sistemas e Informática y Magister en Ingeniería de Sistemas. FrontEnd Developer y Organizador del GDG Medellín",
+      "company" : "Globant",
+      "companyLogo" : "/images/logos/logo_globant.svg",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/logo_globant.svg?alt=media&token=979f44fe-5c2e-442f-8249-6d044b76ddae",
+      "country" : "Colombia",
       "id" : "sebastian_gomez",
       "name" : "Sebastian Gomez",
       "order" : 0,
-      "photoUrl" : "https://dfua16.firebaseapp.com//images/people/adrian_kajda.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/sebastian_gomez.jpg?alt=media&token=dbf1135a-081e-4d64-82c6-238fa23b172d",
       "sessions" : {
         "2017" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
-          "tags" : [ "Android" ],
-          "title" : "Fuelio. Success story"
+          "presentation" : "hhttps://goo.gl/kdvsVe",
+          "tags" : [ "IA" ],
+          "title" : "Utilizando IA en tu App con VIsion API y NodeJS."
         } ]
       },
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "plus.google.com/+AdrianKajda",
-        "name" : "Google+"
-      } ],
-      "title" : "Product Manager/Developer"
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/sebastian-gomez-frontend/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/jggomez",
+        "name" : "GitHub"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/sebasgojs",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "www.sebastian-gomez.com",
+        "name" : "Website"
+      }],
+      "title" : "Frontend Architect"
     },
     "carlos_rojas" : {
-      "bio" : "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
-      "company" : "Applause",
-      "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/applause.png",
-      "country" : "Poland",
+      "badges" : [ {
+        "description" : "Google Product Strategy Expert",
+        "link" : "https://developers.google.com/experts/people/valentyn-shybanov.html",
+        "name" : "gdp"
+      }, {
+        "description" : "Google Developers Group Kyiv",
+        "link" : "https://developers.google.com/groups/chapter/110301321530950732281/",
+        "name" : "gdg"
+      } ],
+      "bio" : "Google Product Strategy Expert. Web UI en Globant. Interesado principalmente en Progressive Web Apps, Angular y Firebase. En mi tiempo libre escribo libros y hago videos en Youtube.",
+      "company" : "Globant",
+      "companyLogo" : "/images/logos/logo_globant.svg",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/logo_globant.svg?alt=media&token=979f44fe-5c2e-442f-8249-6d044b76ddae",
+      "country" : "Colombia",
       "id" : "carlos_rojas",
       "name" : "Carlos Rojas",
       "order" : 1,
-      "photoUrl" : "https://storage.googleapis.com/dfua17.appspot.com/images/people/aleksander_piotrowski.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/carlos_rojas.jpg?alt=media&token=22e14b99-6606-4660-bd3f-558bf31c629f",
       "sessions" : {
         "2017" : [ {
-          "presentation" : "https://speakerdeck.com/gdglviv/aleksander-piotrowski-android-tool-chain-and-run-time-improvements-in-n",
-          "tags" : [ "Android" ],
-          "title" : "Android tool-chain and run-time improvements in N"
+          "presentation" : "https://goo.gl/9Kxz6T",
+          "tags" : [ "PWA" ],
+          "title" : "Progressive Web Apps como la nueva forma de hacer Apps para tus usuarios."
         } ]
       },
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/pelotasplus",
+        "link" : "https://twitter.com/carlosrojas_o",
         "name" : "Twitter"
       }, {
-        "icon" : "linkedin",
-        "link" : "https://linkedin.com/in/pelotasplus",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://facebook.com/pelotasplus",
-        "name" : "Facebook"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/pelotasplus",
-        "name" : "GitHub"
+        "icon" : "website",
+        "link" : "https://www.ng-classroom.com/",
+        "name" : "Website"
       } ],
-      "title" : "Code monkey"
+      "title" : "Google Product Strategy Expert"
     },
     "juan_herrera" : {
-      "bio" : "Carmen is a front-end engineer and a #1 fan of dev communities. She loves Angular but has since recently developed feelings for Polymer too. She strongly believes that adding at least one ASCII smiley in your emails will make the world a better place and hopes to one day make a difference for the web with the code she writes. If she had super powers, she would smiley all the things.",
-      "company" : "Widespread",
-      "companyLogo" : "https://dfua16.firebaseapp.com//images/logos/widespread.png",
-      "country" : "Romania",
+      "badges" : [ {
+        "description" : "GDE Angular",
+        "link" : "https://developers.google.com/experts/people/juan-herrera",
+        "name" : "gde"
+      }],
+      "bio" : "Google Developer Expert in Angular y organizador de AngularMedellin & NgColombia. Front-end Dev",
+      "company" : "Yuxi Global",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/yuxi_logo.jpg?alt=media&token=5852a06a-d063-4359-acd2-019709cd98c2",
+      "country" : "Colombia",
       "id" : "juan_herrera",
       "name" : "Juan Herrera",
       "order" : 2,
-      "photoUrl" : "https://dfua16.firebaseapp.com//images/people/carmen_popovicu.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/juan_herrera.jpg?alt=media&token=dc9d2158-2d9f-4808-b8d3-7c5b7749a71e",
       "sessions" : {
         "2017" : [ {
-          "presentation" : "http://carmenpopoviciu.github.io/on-polymer-and-smileys/",
-          "tags" : [ "Web" ],
-          "title" : "On Polymer and smileys... or Polysmileys"
+          "presentation" : "bit.do/ng-library",
+          "tags" : [ "Angular" ],
+          "title" : "Como crear una libreria con Angular"
         } ]
       },
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/u/0/118143942632321563925/",
-        "name" : "Google+"
-      }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/CarmenPopoviciu",
+        "link" : "https://twitter.com/jdjuan",
         "name" : "Twitter"
       } ],
-      "title" : "Front-end Engineer"
+      "title" : "GDE Angular"
+    }, 
+    "jorge_vergara" : {
+      "bio" : "Mobile Developer Lead en Yuxi Global. Le gusta construir Apps en IonicFramework, Firebase y NativeScript.",
+      "company" : "Yuxi Global",
+      "companyLogo" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/yuxi_logo.jpg?alt=media&token=5852a06a-d063-4359-acd2-019709cd98c2",
+      "country" : "Colombia",
+      "id" : "jorge_vergara",
+      "name" : "Jorge Vergara",
+      "order" : 3,
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/jorge_vergara.jpg?alt=media&token=5e6488ec-ddf4-49c2-bc96-5eef4501ba65",
+      "sessions" : {
+        "2017" : [ {
+          "presentation" : "https://goo.gl/hgbLuf",
+          "tags" : [ "Firebase" ],
+          "title" : "Creando tu app sin servidores con Firebase"
+        } ]
+      },
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/javebratt",
+        "name" : "Twitter"
+      } ],
+      "title" : "Mobile Developer Lead"
     }
   }
 }
