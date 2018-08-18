@@ -12,6 +12,7 @@
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
   "buyTicket": "Registro",
+  "callForPapers": "Call for Papers",
   "signIn": "Sign in",
   "signOut": "Sign out",
   "viewHighlights": "Destacados",
@@ -86,14 +87,9 @@
           "newTab": true
         },
         {
-          "name": "Call for Papers",
+          "name": "Call for Speakers",
           "url": "https://sessionize.com/devfest-2018",
           "newTab": true
-        },
-        {
-          "name": "FAQs",
-          "url": "/faq/",
-          "newTab": false
         }
       ]
     }

@@ -47,14 +47,14 @@
     }
   },
   "gallery" : [
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4185.jpg?alt=media&token=ff3fd161-3d68-401a-90cd-74b90bd2a4d8",
+    "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/gallery1.jpg?alt=media&token=b51cc460-c8e0-4eb0-8f31-697acc5e9344",
     "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4411.jpg?alt=media&token=7fda0d66-a631-4816-bd85-b93ef49ed3a6",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4577.jpg?alt=media&token=f14205b5-be75-447c-8bca-73a15ca2df41",
+    "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/gallery3.jpg?alt=media&token=597b280b-947e-4e3a-8301-f1d42ed2d0dc",
     "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4525.jpg?alt=media&token=0428f0e3-fda0-4119-8249-69f98e936ce5",
     "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4611.jpg?alt=media&token=b080143c-161c-4d9f-96f3-ebb6bdcdfd95",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4720.jpg?alt=media&token=75de0c2d-8bd9-48bb-9117-1349c9bc381f",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4646.jpg?alt=media&token=eafb0320-6f21-47bc-8ba4-8eec708f2076",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_5294.jpg?alt=media&token=72ab5141-d21b-4e71-a58b-faa2b00d1d02"
+    "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/gallery6.jpg?alt=media&token=c325b2e1-2bec-4644-a200-80a520698adb",
+    "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/gallery7.jpg?alt=media&token=aa5a4fef-7525-442d-acd0-66a782638a71",
+    "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/gallery8.jpg?alt=media&token=82a70da0-5ab0-40cc-a7f9-a60aa1a3b749"
   ],
   "notifications" : {
     "config" : {
@@ -456,38 +456,8 @@
       "title" : "Front-end Developer"
     }
    ],
-    "title" : "Organizadores"
-  }, {
-    "members" : [ {
-      "name" : "Sebastian Gomez",
-      "badges" : [ {
-        "description" : "Google Developers Group Medellin",
-        "link" : "https://developers.google.com/groups/chapter/110301321530950732281/",
-        "name" : "gdg"
-      } ],
-      "photo" : "/images/people/sebastian_gomez.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/sebastian_gomez.jpg?alt=media&token=dbf1135a-081e-4d64-82c6-238fa23b172d",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/sebastian-gomez-frontend/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/jggomez",
-        "name" : "GitHub"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/sebasgojs",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "www.sebastian-gomez.com",
-        "name" : "Website"
-      }],
-      "title" : "Front-end Architect"
-    } ],
-    "title" : "Comité"
-    } ],
+    "title" : "Equipo principal"
+  } ],
   "tickets" : [ {
     "available" : true,
     "currency" : "$",

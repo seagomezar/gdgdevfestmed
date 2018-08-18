@@ -32,8 +32,12 @@
       "route": "team",
       "permalink": "/team/",
       "label": "Equipo"
+    },
+    {
+      "route": "home",
+      "permalink": "https://sessionize.com/devfest-2018",
+      "label": "Call For Speakers"
     }
-    
   ],
   "heroSettings": {
     "home": {
