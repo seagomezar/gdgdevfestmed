@@ -391,22 +391,6 @@
         "name" : "Github"
       } ],
       "title" : "Front-end Developer"
-    },  {
-      "name" : "Marian Villa",
-      "badges" : [ {
-        "description" : "Google Developers Group Medellín",
-        "link" : "https://www.meetup.com/GDG-Medellin/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Líder en Pioneras Dev",
-      "photo" : "/images/people/marian_villa.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/marian_villa.jpg?alt=media&token=b86065dc-9350-4d59-ac2c-69a124e3be5c",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/Marianvilla",
-        "name" : "Twitter"
-      }],
-      "title" : "Google Developer Expert UX/UI"
     }
    ],
     "title" : "Equipo principal"
