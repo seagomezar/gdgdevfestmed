@@ -335,7 +335,7 @@
         "name" : "LinkedIn"
       }, {
         "icon" : "github",
-        "link" : "https://github.com/jggomez",
+        "link" : "https://github.com/seagomezar",
         "name" : "GitHub"
       }, {
         "icon" : "twitter",
@@ -346,19 +346,19 @@
         "link" : "www.sebastian-gomez.com",
         "name" : "Website"
       }],
-      "title" : "Frontend Architect"
+      "title" : "Organizador GDG"
     }, {
       "name" : "Carlos Rojas",
       "badges" : [ {
-        "description" : "Google Product Strategy Expert",
+        "description" : "Web UI Developer",
         "link" : "https://developers.google.com/experts/people/valentyn-shybanov.html",
-        "name" : "gdp"
+        "name" : "gdg"
       }, {
         "description" : "Google Developers Group Medellín",
         "link" : "https://www.meetup.com/GDG-Medellin/",
         "name" : "gdg"
       } ],
-      "bio" : "Google Product Strategy Expert. Web UI en Globant. Interesado principalmente en Progressive Web Apps, Angular y Firebase. En mi tiempo libre escribo libros y hago videos en Youtube.",
+      "bio" : "Web UI en Globant. Interesado principalmente en Progressive Web Apps, Angular y Firebase. En mi tiempo libre escribo libros y hago videos en Youtube.",
       "photo" : "/images/people/carlos_rojas.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/carlos_rojas.jpg?alt=media&token=22e14b99-6606-4660-bd3f-558bf31c629f",
       "socials" : [ {
@@ -370,7 +370,7 @@
         "link" : "https://www.ng-classroom.com/",
         "name" : "Website"
       } ],
-      "title" : "Google Product Strategy Expert"
+      "title" : "Organizador GDG"
     }, {
       "name" : "Vanessa Aristizabal",
       "badges" : [ {
@@ -390,7 +390,7 @@
         "link" : "https://github.com/vanessamarely",
         "name" : "Github"
       } ],
-      "title" : "Front-end Developer"
+      "title" : "Organizador GDG"
     }
    ],
     "title" : "Equipo principal"

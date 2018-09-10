@@ -109,8 +109,8 @@
   "location": {
     "label": "Ubicación",
     "name": "Ruta N",
-    "city": "Medellin",
-    "short": "Medellin, Colombia",
+    "city": "Medellín",
+    "short": "Medellín, Colombia",
     "address": "Calle 67 N° 52-20, Barrio Sevilla de Medellín, Colombia",
     "pointer": {
       "latitude": 6.264688,
