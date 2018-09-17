@@ -343,7 +343,7 @@
         "name" : "Twitter"
       }, {
         "icon" : "website",
-        "link" : "www.sebastian-gomez.com",
+        "link" : "https://sebastian-gomez.com/",
         "name" : "Website"
       }],
       "title" : "Organizador GDG"
@@ -420,7 +420,7 @@
   "previousSpeakers": {
     "sebastian_gomez" : {
       "badges" : [ {
-        "description" : "Google Developers Group Medellin",
+        "description" : "Google Developers Group Medellín",
         "link" : "https://developers.google.com/groups/chapter/110301321530950732281/",
         "name" : "gdg"
       } ],
@@ -435,7 +435,7 @@
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/sebastian_gomez.jpg?alt=media&token=dbf1135a-081e-4d64-82c6-238fa23b172d",
       "sessions" : {
         "2017" : [ {
-          "presentation" : "hhttps://goo.gl/kdvsVe",
+          "presentation" : "https://goo.gl/kdvsVe",
           "tags" : [ "IA" ],
           "title" : "Utilizando IA en tu App con VIsion API y NodeJS."
         } ]
@@ -454,22 +454,18 @@
         "name" : "Twitter"
       }, {
         "icon" : "website",
-        "link" : "www.sebastian-gomez.com",
+        "link" : "https://sebastian-gomez.com/",
         "name" : "Website"
       }],
       "title" : "Frontend Architect"
     },
     "carlos_rojas" : {
       "badges" : [ {
-        "description" : "Google Product Strategy Expert",
-        "link" : "https://developers.google.com/experts/people/valentyn-shybanov.html",
-        "name" : "gdp"
-      }, {
-        "description" : "Google Developers Group Kyiv",
+        "description" : "Google Developers Group Medellín",
         "link" : "https://developers.google.com/groups/chapter/110301321530950732281/",
         "name" : "gdg"
       } ],
-      "bio" : "Google Product Strategy Expert. Web UI en Globant. Interesado principalmente en Progressive Web Apps, Angular y Firebase. En mi tiempo libre escribo libros y hago videos en Youtube.",
+      "bio" : "Web UI en Globant. Interesado principalmente en Progressive Web Apps, Angular y Firebase. En mi tiempo libre escribo libros y hago videos en Youtube.",
       "company" : "Globant",
       "companyLogo" : "/images/logos/logo_globant.svg",
       "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/logo_globant.svg?alt=media&token=979f44fe-5c2e-442f-8249-6d044b76ddae",
