@@ -1,7 +1,7 @@
 {
   "title": "GDG DevFest 2018",
   "description": "Se un héroe. Se un GDG!",
-  "image": "images/social-share.jpg",
+  "image": "images/social-share.png",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "Diciembre 1, 2018",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
@@ -98,7 +98,7 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Asistentes",
-        "number": "200"
+        "number": "400"
       },
       "days": {
         "label": "Horas",
