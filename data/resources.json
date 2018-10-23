@@ -67,16 +67,6 @@
           "newTab": true
         }
       ]
-    },
-    {
-      "title": "Recursos del Evento",
-      "links": [
-        {
-          "name": "Call for Speakers",
-          "url": "https://sessionize.com/devfest-2018",
-          "newTab": true
-        }
-      ]
     }
   ],
   "subscribeNote": "No spam, only the latest news and updates!",

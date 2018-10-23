@@ -71,6 +71,11 @@
       "logoUrl" : "../images/logos/rutan.svg",
       "name" : "RutaN",
       "url" : "https://www.rutanmedellin.org/es/"
+    },
+    {
+      "logoUrl" : "../images/logos/logo-endava.png",
+      "name" : "Endava",
+      "url" : "https://www.endava.com/"
     }],
     "title" : "Patrocinadores Locales"
   } ],
