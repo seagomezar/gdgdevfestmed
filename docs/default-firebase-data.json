@@ -83,59 +83,107 @@
     "2018-12-01" : {
       "dateReadable" : "Diciembre 1",
       "timeslots" : [ {
-        "endTime" : "08:30",
+        "endTime" : "09:00",
         "sessions" : [ {
-          "items" : [ 107 ]
+          "items" : [ 110 ]
         } ],
         "startTime" : "08:00"
       }, {
-        "endTime" : "08:40",
+        "endTime" : "09:30",
         "sessions" : [ {
-          "items" : [ 109 ]
+          "items" : [ 112 ]
         } ],
-        "startTime" : "08:30"
+        "startTime" : "09:00"
       }, {
-        "endTime" : "09:10",
-        "sessions" : [ {
-          "items" : [ 104 ]
-        } ],
-        "startTime" : "08:40"
-      }, {
-        "endTime" : "10:05",
+        "endTime" : "10:00",
         "sessions" : [ {
           "items" : [ 101 ]
         } ],
-        "startTime" : "09:15"
+        "startTime" : "09:30"
       }, {
         "endTime" : "10:30",
         "sessions" : [ {
-          "items" : [ 105 ]
-        }],
-        "startTime" : "10:10"
+          "items" : [ 102 ]
+        } ],
+        "startTime" : "10:00"
       }, {
         "endTime" : "11:00",
         "sessions" : [ {
-          "items" : [ 108 ]
+          "items" : [ 111 ]
         } ],
         "startTime" : "10:30"
       }, {
-        "endTime" : "11:55",
-        "sessions" : [ {
-          "items" : [ 102 ]
-        } ],
-        "startTime" : "11:00"
-      }, {
-        "endTime" : "12:20",
+        "endTime" : "11:30",
         "sessions" : [ {
           "items" : [ 103 ]
         } ],
+        "startTime" : "11:00"
+      }, {
+        "endTime" : "12:00",
+        "sessions" : [ {
+          "items" : [ 104 ]
+        } ],
+        "startTime" : "11:30"
+      }, {
+        "endTime" : "12:30",
+        "sessions" : [ {
+          "items" : [ 105 ]
+        }],
         "startTime" : "12:00"
       }, {
-        "endTime" : "12:40",
+        "endTime" : "13:30",
         "sessions" : [ {
-          "items" : [ 110 ]
+          "items" : [ 114 ]
         }],
-        "startTime" : "12:25"
+        "startTime" : "12:30"
+      }, {
+        "endTime" : "13:40",
+        "sessions" : [ {
+          "items" : [ 115 ]
+        }],
+        "startTime" : "13:30"
+      }, {
+        "endTime" : "14:10",
+        "sessions" : [ {
+          "items" : [ 106 ]
+        }],
+        "startTime" : "13:40"
+      }, {
+        "endTime" : "14:40",
+        "sessions" : [ {
+          "items" : [ 107 ]
+        }],
+        "startTime" : "14:10"
+      }, {
+        "endTime" : "15:10",
+        "sessions" : [ {
+          "items" : [ 108 ]
+        }],
+        "startTime" : "14:40"
+      }, {
+        "endTime" : "15:30",
+        "sessions" : [ {
+          "items" : [ 111 ]
+        }],
+        "startTime" : "15:10"
+      }, {
+        "endTime" : "16:00",
+        "sessions" : [ {
+          "items" : [ 109 ]
+        }],
+        "startTime" : "15:30"
+      }, {
+        "endTime" : "16:30",
+        "sessions" : [ {
+          "items" : [ 116 ]
+        }],
+        "startTime" : "16:00"
+      }, {
+        "endTime" : "17:00",
+        "sessions" : [ {
+          "items" : [ 113 ]
+        }],
+        "startTime" : "16:30"
       } ],
       "tracks" : [ {
         "title" : "Conference hall"
@@ -144,85 +192,124 @@
   },
   "sessions" : {
     "101" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
+      "description" : "La web es una plataforma abierta en donde todos podemos participar. Como usuarios sólo necesitamos de un navegador para disfurtar de diversas experiencias en Internet. Lamentablemente no todos los dispositivos soportan las características más modernas que queremos ofrecer a nuestros usuarios; sin embargo esto no debería desencadenar en una experiencia pobre para ellos. La web progresiva busca ofrecer las mismas experiencias centrales en la medida de lo posible.",
       "language" : "Español",
-      "presentation" : "TBD",
+      "presentation" : "",
       "speakers" : [ "diego_coy"],
-      "tags" : [ "Web" ],
-      "title" : "TBD"
+      "tags" : [ "Web", "PWA" ],
+      "title" : "La Web Progresiva"
     },
     "102" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
+      "description" : "Una breve charla sobre como tecnologías de Google (Angular) me han mantenido relevante en la industria, me han llevado de viaje mas de 5 veces en 1 año y me han dado un puesto de trabajo en Canadá en una de las Big Four. Así mismo, consejos sobre como sacarle provecho a estas tecnologías.",
       "language" : "Español",
-      "speakers" : [ "juan_guillermo" ],
-      "tags" : [ "Firebase" ],
-      "title" : "TBD"
+      "presentation" : "",
+      "speakers" : [ "tatiana_molina" ],
+      "tags" : [ "Angular", "Google" ],
+      "title" : "Como mantenerte relevante en la industria gracias a Google technologies."
     },
     "103" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
+      "description" : "El Machine Learning (ML) es uno de los conceptos mas revolucionarios y de gran importancia en los últimos años. Muchas empresas y startups lo están integrando en sus productos y servicios. En la actualidad hacer uso del ML es mas fácil que antes. Firebase de Google lanzo en el ultimo google I/O su kit de ML para android y iOS. Este kit tiene varias características de Vision ML, como reconocimiento de texto, detección de caras, lectura de código de barras entre otras. Ademas funciona on-device o por APIs. En esta conferencia hablaremos del Kit y como lo usamos en Android.",
       "language" : "Español",
-      "presentation" : "TBD",
-      "speakers" : [ "speaker" ],
-      "tags" : [ "Speaker" ],
-      "title" : "TBD"
+      "presentation" : "",
+      "speakers" : [ "juan_guillermo" ],
+      "tags" : [ "Firebase", "Apps" ],
+      "title" : "Creando Apps con Firebase KIT ML"
     },
     "104" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
+      "description" : "En esta charla veremos como reducir la fricción entre nuestra App y posibles usuarios con Firebase passwordless auth y Firebase Anonymous login. Veremos ejemplos de malas practicas de autenticación y como arreglarlas para lograr que las personas pasen de descargar nuestra app a comenzar a usarla y volverse un usuario fiel.",
       "language" : "Español",
-      "presentation" : "TBD",
-      "speakers" : [ "speaker" ],
-      "tags" : [ "Speaker" ],
-      "title" : "TBD"
+      "presentation" : "",
+      "speakers" : [ "jorge_vergara" ],
+      "tags" : [ "Firebase" ],
+      "title" : "Convierte más usuarios con Firebase Anonymous Login"
     },
     "105" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
-      "language" : "English",
-      "presentation" : "TBD",
-      "speakers" : [ "speaker" ],
-      "tags" : [ "Cloud" ],
-      "title" : "TBD"
+      "description" : "La explosión de la era la información apalancada con herramientas de aprendizaje profundo y de software libre como tensorflow permiten construir modelos que resultan capaces de responder a problemas complejos generando soluciones innovadoras. Tensorflow ofrece un amplio portafolio de posibilidades y la comunidad crece cada día mas al momento de abordar problemas analíticos que por medio de la inteligencia artificial generar valor a los procesos. Desde la detección de anomalías hasta el análisis de video en tiempo real, las empresas han sido capaces de aprovechar la inteligencia artificial para obtener una ventaja competitiva e incluso cambiar la forma en que sus mercados abordan la experiencia del cliente.",
+      "language" : "Español",
+      "presentation" : "",
+      "speakers" : [ "maris_botero" ],
+      "tags" : [ "Tensorflow" ],
+      "title" : "Aplicaciones de Deep learning con tensorflow"
     },
     "106" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
-      "language" : "English",
-      "presentation" : "TBD",
-      "speakers" : [ "speaker" ],
-      "tags" : [ "Cloud" ],
-      "title" : "TBD"
+      "description" : "En esta charla hablo de que es de como se usa actualmente Atomic Design en producción para solventar los problemas de cambios de diseño y mantenimiento de UI en una aplicación Android.",
+      "language" : "Español",
+      "presentation" : "",
+      "speakers" : [ "cristian_gomez" ],
+      "tags" : [ "Android" ],
+      "title" : "Atomic design para Android"
     },
     "107" : {
+      "description" : "Todos, como Android Devs, hemos experimentado en algún momento problemas de performance que afectan la usabilidad de las apps que desarrollamos. Por ello, la importancia de aprender a identificar y diagnosticar problemas de rendimiento. Realizar tests exploratorios, ejecutar herramientas de profiling, usar outputs para encontrar código 'problemático' y diseñar un plan de ataque para mitigar dichos problemas, se convierten en habilidades que como developers necesitamos conocer y entender para incluirlas en nuestras tareas del día a día. Así, iremos comprendiendo como nuestro código se ejecuta dentro de la plataforma Android y cómo interactúan entre ellos. En esta charla vamos a hacer una revisión general acerca de todo esto, para en el corto plazo seamos capaces de identificar algún problema en el código (no optimizado) de nuestra app, y así re-escribirlo adecuadamente y como resultado final, tengamos apps sin problemas de performance",
+      "language" : "Español",
+      "presentation" : "",
+      "speakers" : [ "carlos_munoz" ],
+      "tags" : [ "Android" ],
+      "title" : "Peformance en Android para tod@s!!! :D"
+    },
+    "108" : {
+      "description" : "Flutter is Google’s mobile app SDK for crafting native interfaces on iOS and Android in record time. Its layered architecture allows full customization, which results in fast rendering and expressive and flexible designs. Flutter’s widgets incorporate all platform differences such as scrolling, navigation, icons and fonts to provide full native performance on both iOS and Android. With this in mind I would like to show a functional example of how using Flutter we can build beautiful interfaces for mobile applications through the use and customization of the widgets that Flutter offers us, in a fast and compatible way for Android and iOS and also how to integrate Material Design and Cupertino widgets.",
+      "language" : "Español",
+      "presentation" : "",
+      "speakers" : [ "odalys_marron" ],
+      "tags" : [ "Flutter", "Google", "SDK" ],
+      "title" : "Customizing your widgets to build beautiful interfaces for your mobile application with Flutter"
+    },
+    "109" : {
+      "description" : "Cuando tus clientes pertenecen a la misma industria, a menudo requieren aplicaciones que comparten hasta el 80% de la funcionalidad. Tú no necesitas construir la misma aplicación una y otra vez. Ven y aprende cómo construir una solución que alcance el balance perfector entre reusabilidad y personalización. Escribe las funcionalidad una vez y personaliza en demanda.",
+      "language" : "Español",
+      "presentation" : "",
+      "speakers" : [ "juan_herrera" ],
+      "tags" : [ "Angular" ],
+      "title" : "Aplicaciones Dinámicas en Angular: Construye una vez, Personaliza en demanda"
+    },
+    "110" : {
       "description" : "Registrate y disfruta de las charlas",
       "icon" : "registration",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
       "tags" : [ "General" ],
       "title" : "Registro"
     },
-    "108" : {
+    "111" : {
       "description" : "Breakkkk!",
       "icon" : "coffee-break",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
       "tags" : [ "General" ],
-      "title" : "Coffee break"
+      "title" : "Break"
     },
-    "109" : {
+    "112" : {
       "description" : "Inicio Oficial de la Conferencia. Saludos de los Organizadores y patrocinadores.",
       "icon" : "opening",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "tags" : [ "General" ],
       "language" : "Español",
-      "title" : "GDG DevFest Medellin 2018 Apertura"
+      "title" : "DevFest 2018 Apertura"
     },
-    "110" : {
+    "113" : {
       "description" : "Cierre del evento",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
       "tags" : [ "General" ],
       "title" : "Cierre de la Conferencia"
+    },
+    "114" : {
+      "description" : "Tiempo para que hagas una pausa y almuerces",
+      "icon" : "lunch",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
+      "title" : "Lunch"
+    },
+    "115" : {
+      "description" : "Inicio de las charlas de la tarde.",
+      "icon" : "opening",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
+      "tags" : [ "General" ],
+      "language" : "Español",
+      "title" : "DevFest Medellin 2018 Apertura"
+    },
+    "116" : {
+      "description" : "Tiempo para hagas preguntas a los expertos",
+      "icon" : "party",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
+      "title" : "Panel Speakers"
     }
   },
   "speakers" : {
@@ -300,27 +387,136 @@
       } ],
       "title" : "GDE Firebase"
     },
-    "speaker" : {
-      "bio" : "Speaker",
-      "company" : "speaker",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+    "juan_herrera" : {
+      "badges" : [ {
+        "description" : "GDE Angular",
+        "link" : "https://developers.google.com/experts/people/juan-herrera",
+        "name" : "gde"
+      } ],
+      "bio" : "Juan Herrera (@jdjuan) is a Google Developer Expert in Angular. He is the Head of Front-End Development at Yuxi Global where he provides consultancy in Angular to different companies. Organizer of Angular Medellin and NgColombia (The first Angular Conference in Latin America). Juan loves creating social web apps. In his spare time, he enjoys dancing and singing ",
+      "company" : "Yuxi Global",
+      "companyLogo" : "/images/logos/yuxi_logo.jpg",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/yuxi_logo.jpg?alt=media&token=5852a06a-d063-4359-acd2-019709cd98c2",
       "country" : "Colombia",
       "featured" : true,
-      "name" : "Speaker",
-      "photo" : "/images/people/man.svg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/man.svg?alt=media&token=13253190-2252-4592-a36a-c3e4aa5b60a3",
-      "shortBio" : "Speaker...",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/",
-        "name" : "Google+"
-      }, {
+      "name" : "Juan Herrera",
+      "photo" : "/images/people/juan_herrera.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/juan_herrera.jpg?alt=media&token=dc9d2158-2d9f-4808-b8d3-7c5b7749a71e",
+      "shortBio" : "Juan Herrera (@jdjuan) is a Google Developer Expert in Angular...",
+      "socials" : [{
         "icon" : "twitter",
-        "link" : "https://twitter.com/",
+        "link" : "https://twitter.com/jdjuan",
         "name" : "Twitter"
       } ],
-      "title" : "TBD"
+      "title" : "GDE Angular"
+    },
+    "tatiana_molina" : {
+      "bio" : "Software Developer en Deloitte, trabajando con Angular. Con experiencia principalmente en desarrollo Web FrontEnd y Javascript. Organizadora de Angular Chile.",
+      "company" : "Deloitte",
+      "companyLogo" : "/images/logos/logo-deloitte.png",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/logo-deloitte.png?alt=media&token=07e46208-0891-47d5-9882-92112d7fd35e",
+      "country" : "Colombia",
+      "featured" : true,
+      "name" : "Tatiana Molina",
+      "photo" : "/images/people/Tatiana_Molina.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/Tatiana_Molina.jpg?alt=media&token=2cb1507a-77f1-4aa4-a8a6-5560bf1f868e",
+      "shortBio" : "Software Developer en Deloitte, trabajando con Angular...",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/tatymolys",
+        "name" : "Twitter"
+      } ],
+      "title" : "Senior Developer at Deloitte"
+    },
+    "jorge_vergara" : {
+      "bio" : "Trabaja con Firebase desde antes que Google los comprara y esta realmente maravillado de todo lo que se puede lograr con esta herramienta. Desarrollador móvil en Yuxi Global, ayuda con la organización del Meetup de Angular Medellín y cuando los nervios se lo permiten da charlas sobre Firebase y/o Ionic",
+      "company" : "Yuxi Global",
+      "companyLogo" : "/images/logos/yuxi_logo.jpg",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/yuxi_logo.jpg?alt=media&token=5852a06a-d063-4359-acd2-019709cd98c2",
+      "country" : "Colombia",
+      "featured" : true,
+      "name" : "Jorge Vergara",
+      "photo" : "/images/people/jorge_vergara.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/jorge_vergara.jpg?alt=media&token=5e6488ec-ddf4-49c2-bc96-5eef4501ba65",
+      "shortBio" : "Desarrollador móvil en Yuxi Global, ayuda con la organización del Meetup de Angular Medellín...",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/javebratt",
+        "name" : "Twitter"
+      } ],
+      "title" : "Mobile Developer Lead"
+    },
+    "cristian_gomez" : {
+      "bio" : "Desarrollador de Software desde hace 8 años, ha trabajado con tecnologías para la Web, Backend, Frontend, Mobile y juegos. Actualmente se especializa en el desarrollo de aplicaciones Android y es Co-organizador del Meetup de Android en Medellín",
+      "company" : "Pager Inc",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Colombia",
+      "featured" : true,
+      "name" : "Cristian Gomez",
+      "photo" : "/images/people/cristian_gomez.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/Cristian_Gomez.jpg?alt=media&token=aefc8014-d7e7-459a-a419-aaf9fdefb4b3",
+      "shortBio" : "Desarrollador de Software. Se especializa en el desarrollo de aplicaciones Android ...",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/iyubinest",
+        "name" : "Twitter"
+      } ],
+      "title" : "Android Developer"
+    },
+    "maris_botero" : {
+      "bio" : "Ingeniera Electrónica de profesión y desarrolladora de software por pasión. Tiene dos años de experiencia en proyectos de robótica y desarrollo de Software. Le encanta construir cosas como robots, temas de inteligencia artificial. Actualmente esta enfocada en Big Data y el Aprendizaje automático. Se describe como creativa y de aprendizaje rápido, positiva y autodidacta. Disfruta ser parte de algo más grande y por eso, es participante activa de Pioneras developers y también Data scients fem.",
+      "company" : "",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Colombia",
+      "featured" : true,
+      "name" : "Maris Botero Gonzalez",
+      "photo" : "/images/people/maris_botero.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/Maris_Botero_Gonzalez.jpg?alt=media&token=33840894-a2bd-4ff1-b751-931b302fa584",
+      "shortBio" : "Ingeniera Electrónica y Desarrolladora de Software, enfocada en Big Data y el Aprendizaje automático ...",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/marisbotero",
+        "name" : "Twitter"
+      } ],
+      "title" : "Data Scientist"
+    },
+    "carlos_munoz" : {
+      "bio" : "Software Engineer y Android Dev en The Public Group/Webcat. Firme creyente que de un coffee & code o un beer & code siempre saldrán nuevos e interesantes aprendizajes. Fundador y organizador del Meetup local de Medellín Android y en la búsqueda constante de la filantropía del conocimiento.",
+      "company" : "The Public Group/Webcat",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Colombia",
+      "featured" : true,
+      "name" : "Carlos Daniel Munoz Idarraga",
+      "photo" : "/images/people/carlos_munoz.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/Carlos_Daniel_Munoz_Idarraga.jpg?alt=media&token=962f3da4-5d75-4bf4-bc30-2d56ace25dbd",
+      "shortBio" : "Software Engineer y Android Dev. Organizador del Meetup local de Medellín Android ...",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/cdmunozi",
+        "name" : "Twitter"
+      } ],
+      "title" : "Software Engineer y Android Dev"
+    },
+    "odalys_marron" : {
+      "bio" : "Computer Systems Engineer graduated from the Computing School (ESCOM-IPN). Specialized in Web and Mobile Development. Experience developing with Google Angular and Flutter frameworks. Use of Google Firebase and Android technologies",
+      "company" : "Ubroapps",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Colombia",
+      "featured" : true,
+      "name" : "Odalys Marrón",
+      "photo" : "/images/people/odalys_marron.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/Odalys_Marron.jpg?alt=media&token=5a7ca546-c951-42b5-a5e8-7956c96aefa3",
+      "shortBio" : "Computer Systems Engineer. Specialized in Web and Mobile Development ...",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "hhttps://twitter.com/MarronOdalys",
+        "name" : "Twitter"
+      } ],
+      "title" : "Software Developer"
     }
   },
   "team" : [ {
