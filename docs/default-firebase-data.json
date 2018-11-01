@@ -249,12 +249,12 @@
       "title" : "Performance en Android para tod@s!!! :D"
     },
     "108" : {
-      "description" : "Flutter is Google’s mobile app SDK for crafting native interfaces on iOS and Android in record time. Its layered architecture allows full customization, which results in fast rendering and expressive and flexible designs. Flutter’s widgets incorporate all platform differences such as scrolling, navigation, icons and fonts to provide full native performance on both iOS and Android. With this in mind I would like to show a functional example of how using Flutter we can build beautiful interfaces for mobile applications through the use and customization of the widgets that Flutter offers us, in a fast and compatible way for Android and iOS and also how to integrate Material Design and Cupertino widgets.",
+      "description" : "Flutter es es un SDK de desarrollo de aplicaciones móviles de código abierto creado por Google, se utiliza para desarrollar aplicaciones para Android e iOS en un tiempo récord. Su arquitectura en capas permite una personalización completa, lo que resulta en una representación rápida y diseños expresivos y flexibles. Los widgets de Flutter incorporan todas las diferencias entre plataformas, como scrolling, navegación, iconos y fuentes para proporcionar un rendimiento nativo completo tanto en iOS como en Android. Con esto en mente, me gustaría mostrar un ejemplo funcional de cómo al utilizar Flutter podemos crear interfaces para aplicaciones móviles mediante el uso y la personalización de los widgets que Flutter nos ofrece, de una manera rápida y compatible para Android e iOS, integrando al mismo tiempo Material Desing y Cupertino.",
       "language" : "Español",
       "presentation" : "",
       "speakers" : [ "odalys_marron" ],
       "tags" : [ "Flutter", "Google", "SDK" ],
-      "title" : "Customizing your widgets to build beautiful interfaces for your mobile application with Flutter"
+      "title" : "Construyendo widgets para interfaces gráficas en aplicaciones móviles con Flutter."
     },
     "109" : {
       "description" : "Cuando tus clientes pertenecen a la misma industria, a menudo requieren aplicaciones que comparten hasta el 80% de la funcionalidad. Tú no necesitas construir la misma aplicación una y otra vez. Ven y aprende cómo construir una solución que alcance el balance perfecto entre reusabilidad y personalización. Escribe las funcionalidad una vez y personaliza en demanda.",
