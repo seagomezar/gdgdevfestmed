@@ -161,30 +161,31 @@
         }],
         "startTime" : "14:40"
       }, {
-        "endTime" : "15:30",
-        "sessions" : [ {
-          "items" : [ 111 ]
-        }],
-        "startTime" : "15:10"
-      }, {
-        "endTime" : "16:00",
+        "endTime" : "15:40",
         "sessions" : [ {
           "items" : [ 109 ]
         }],
-        "startTime" : "15:30"
+        "startTime" : "15:10"
       }, {
-        "endTime" : "16:30",
+        "endTime" : "16:10",
         "sessions" : [ {
           "items" : [ 116 ]
         }],
-        "startTime" : "16:00"
+        "startTime" : "15:40"
       }, {
-        "endTime" : "17:00",
+        "endTime" : "16:30",
         "sessions" : [ {
           "items" : [ 113 ]
         }],
+        "startTime" : "16:10"
+      },
+      {
+        "endTime" : "17:00",
+        "sessions" : [ {
+          "items" : [ 117 ]
+        }],
         "startTime" : "16:30"
-      } ],
+      }  ],
       "tracks" : [ {
         "title" : "Conference hall"
       } ]
@@ -192,7 +193,7 @@
   },
   "sessions" : {
     "101" : {
-      "description" : "La web es una plataforma abierta en donde todos podemos participar. Como usuarios sólo necesitamos de un navegador para disfurtar de diversas experiencias en Internet. Lamentablemente no todos los dispositivos soportan las características más modernas que queremos ofrecer a nuestros usuarios; sin embargo esto no debería desencadenar en una experiencia pobre para ellos. La web progresiva busca ofrecer las mismas experiencias centrales en la medida de lo posible.",
+      "description" : "La Web es una plataforma abierta en donde todos podemos participar. Como usuarios sólo necesitamos de un navegador para disfrutar de diversas experiencias en Internet. Lamentablemente no todos los dispositivos soportan las características más modernas que queremos ofrecer a nuestros usuarios; sin embargo esto no debería desencadenar en una experiencia pobre para ellos. La Web progresiva busca ofrecer las mismas experiencias centrales en la medida de lo posible.",
       "language" : "Español",
       "presentation" : "",
       "speakers" : [ "diego_coy"],
@@ -205,10 +206,10 @@
       "presentation" : "",
       "speakers" : [ "tatiana_molina" ],
       "tags" : [ "Angular", "Google" ],
-      "title" : "Como mantenerte relevante en la industria gracias a Google technologies."
+      "title" : "Como mantenerte relevante en la industria gracias a Google Technologies."
     },
     "103" : {
-      "description" : "El Machine Learning (ML) es uno de los conceptos mas revolucionarios y de gran importancia en los últimos años. Muchas empresas y startups lo están integrando en sus productos y servicios. En la actualidad hacer uso del ML es mas fácil que antes. Firebase de Google lanzo en el ultimo google I/O su kit de ML para android y iOS. Este kit tiene varias características de Vision ML, como reconocimiento de texto, detección de caras, lectura de código de barras entre otras. Ademas funciona on-device o por APIs. En esta conferencia hablaremos del Kit y como lo usamos en Android.",
+      "description" : "El Machine Learning (ML) es uno de los conceptos mas revolucionarios y de gran importancia en los últimos años. Muchas empresas y Startups lo están integrando en sus productos y servicios. En la actualidad hacer uso del ML es mas fácil que antes. Firebase de Google lanzo en el último Google I/O su kit de ML para Android y iOS. Este kit tiene varias características de Vision ML, como reconocimiento de texto, detección de caras, lectura de código de barras entre otras. Además funciona on-device o por APIs. En esta conferencia hablaremos del Kit y como lo usamos en Android.",
       "language" : "Español",
       "presentation" : "",
       "speakers" : [ "juan_guillermo" ],
@@ -216,7 +217,7 @@
       "title" : "Creando Apps con Firebase KIT ML"
     },
     "104" : {
-      "description" : "En esta charla veremos como reducir la fricción entre nuestra App y posibles usuarios con Firebase passwordless auth y Firebase Anonymous login. Veremos ejemplos de malas practicas de autenticación y como arreglarlas para lograr que las personas pasen de descargar nuestra app a comenzar a usarla y volverse un usuario fiel.",
+      "description" : "En esta charla veremos como reducir la fricción entre nuestra App y posibles usuarios con Firebase passwordless auth y Firebase Anonymous login. Veremos ejemplos de malas practicas de autenticación y como arreglarlas para lograr que las personas pasen de descargar nuestra App a comenzar a usarla y volverse un usuario fiel.",
       "language" : "Español",
       "presentation" : "",
       "speakers" : [ "jorge_vergara" ],
@@ -224,12 +225,12 @@
       "title" : "Convierte más usuarios con Firebase Anonymous Login"
     },
     "105" : {
-      "description" : "La explosión de la era la información apalancada con herramientas de aprendizaje profundo y de software libre como tensorflow permiten construir modelos que resultan capaces de responder a problemas complejos generando soluciones innovadoras. Tensorflow ofrece un amplio portafolio de posibilidades y la comunidad crece cada día mas al momento de abordar problemas analíticos que por medio de la inteligencia artificial generar valor a los procesos. Desde la detección de anomalías hasta el análisis de video en tiempo real, las empresas han sido capaces de aprovechar la inteligencia artificial para obtener una ventaja competitiva e incluso cambiar la forma en que sus mercados abordan la experiencia del cliente.",
+      "description" : "La explosión de la era la información apalancada con herramientas de aprendizaje profundo y de software libre como Tensorflow permiten construir modelos que resultan capaces de responder a problemas complejos generando soluciones innovadoras. Tensorflow ofrece un amplio portafolio de posibilidades y la comunidad crece cada día mas al momento de abordar problemas analíticos que por medio de la inteligencia artificial generar valor a los procesos. Desde la detección de anomalías hasta el análisis de video en tiempo real, las empresas han sido capaces de aprovechar la inteligencia artificial para obtener una ventaja competitiva e incluso cambiar la forma en que sus mercados abordan la experiencia del cliente.",
       "language" : "Español",
       "presentation" : "",
       "speakers" : [ "maris_botero" ],
       "tags" : [ "Tensorflow" ],
-      "title" : "Aplicaciones de Deep learning con tensorflow"
+      "title" : "Aplicaciones de Deep learning con Tensorflow"
     },
     "106" : {
       "description" : "En esta charla hablo de que es de como se usa actualmente Atomic Design en producción para solventar los problemas de cambios de diseño y mantenimiento de UI en una aplicación Android.",
@@ -240,12 +241,12 @@
       "title" : "Atomic design para Android"
     },
     "107" : {
-      "description" : "Todos, como Android Devs, hemos experimentado en algún momento problemas de performance que afectan la usabilidad de las apps que desarrollamos. Por ello, la importancia de aprender a identificar y diagnosticar problemas de rendimiento. Realizar tests exploratorios, ejecutar herramientas de profiling, usar outputs para encontrar código 'problemático' y diseñar un plan de ataque para mitigar dichos problemas, se convierten en habilidades que como developers necesitamos conocer y entender para incluirlas en nuestras tareas del día a día. Así, iremos comprendiendo como nuestro código se ejecuta dentro de la plataforma Android y cómo interactúan entre ellos. En esta charla vamos a hacer una revisión general acerca de todo esto, para en el corto plazo seamos capaces de identificar algún problema en el código (no optimizado) de nuestra app, y así re-escribirlo adecuadamente y como resultado final, tengamos apps sin problemas de performance",
+      "description" : "Todos, como Android Devs, hemos experimentado en algún momento problemas de performance que afectan la usabilidad de las apps que desarrollamos. Por ello, la importancia de aprender a identificar y diagnosticar problemas de rendimiento. Realizar tests exploratorios, ejecutar herramientas de profiling, usar outputs para encontrar código 'problemático' y diseñar un plan de ataque para mitigar dichos problemas, se convierten en habilidades que como developers necesitamos conocer y entender para incluirlas en nuestras tareas del día a día. Así, iremos comprendiendo como nuestro código se ejecuta dentro de la plataforma Android y cómo interactúan entre ellos. En esta charla vamos a hacer una revisión general acerca de todo esto, para en el corto plazo seamos capaces de identificar algún problema en el código (no optimizado) de nuestra App, y así re-escribirlo adecuadamente y como resultado final, tengamos Apps sin problemas de performance",
       "language" : "Español",
       "presentation" : "",
       "speakers" : [ "carlos_munoz" ],
       "tags" : [ "Android" ],
-      "title" : "Peformance en Android para tod@s!!! :D"
+      "title" : "Performance en Android para tod@s!!! :D"
     },
     "108" : {
       "description" : "Flutter is Google’s mobile app SDK for crafting native interfaces on iOS and Android in record time. Its layered architecture allows full customization, which results in fast rendering and expressive and flexible designs. Flutter’s widgets incorporate all platform differences such as scrolling, navigation, icons and fonts to provide full native performance on both iOS and Android. With this in mind I would like to show a functional example of how using Flutter we can build beautiful interfaces for mobile applications through the use and customization of the widgets that Flutter offers us, in a fast and compatible way for Android and iOS and also how to integrate Material Design and Cupertino widgets.",
@@ -256,7 +257,7 @@
       "title" : "Customizing your widgets to build beautiful interfaces for your mobile application with Flutter"
     },
     "109" : {
-      "description" : "Cuando tus clientes pertenecen a la misma industria, a menudo requieren aplicaciones que comparten hasta el 80% de la funcionalidad. Tú no necesitas construir la misma aplicación una y otra vez. Ven y aprende cómo construir una solución que alcance el balance perfector entre reusabilidad y personalización. Escribe las funcionalidad una vez y personaliza en demanda.",
+      "description" : "Cuando tus clientes pertenecen a la misma industria, a menudo requieren aplicaciones que comparten hasta el 80% de la funcionalidad. Tú no necesitas construir la misma aplicación una y otra vez. Ven y aprende cómo construir una solución que alcance el balance perfecto entre reusabilidad y personalización. Escribe las funcionalidad una vez y personaliza en demanda.",
       "language" : "Español",
       "presentation" : "",
       "speakers" : [ "juan_herrera" ],
@@ -264,7 +265,7 @@
       "title" : "Aplicaciones Dinámicas en Angular: Construye una vez, Personaliza en demanda"
     },
     "110" : {
-      "description" : "Registrate y disfruta de las charlas",
+      "description" : "Regístrate y disfruta de las charlas",
       "icon" : "registration",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
       "tags" : [ "General" ],
@@ -286,7 +287,7 @@
       "title" : "DevFest 2018 Apertura"
     },
     "113" : {
-      "description" : "Cierre del evento",
+      "description" : "Cierre del DevFest",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
       "tags" : [ "General" ],
       "title" : "Cierre de la Conferencia"
@@ -298,18 +299,24 @@
       "title" : "Lunch"
     },
     "115" : {
-      "description" : "Inicio de las charlas de la tarde.",
+      "description" : "Presentación de segundo ciclo de charlas de la jornada de la tarde",
       "icon" : "opening",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
       "tags" : [ "General" ],
       "language" : "Español",
-      "title" : "DevFest Medellin 2018 Apertura"
+      "title" : "DevFest - Apertura charlas de la tarde"
     },
     "116" : {
       "description" : "Tiempo para hagas preguntas a los expertos",
-      "icon" : "party",
+      "icon" : "people",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
       "title" : "Panel Speakers"
+    },
+    "117" : {
+      "description" : "Tiempo de Networking, pregunta y comparte este tiempo con los  speakers y demás asistentes",
+      "icon" : "party",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
+      "title" : "Networking"
     }
   },
   "speakers" : {
