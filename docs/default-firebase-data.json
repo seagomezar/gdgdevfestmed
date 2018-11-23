@@ -201,12 +201,12 @@
       "title" : "La Web Progresiva"
     },
     "102" : {
-      "description" : "Una breve charla sobre como tecnologías de Google (Angular) me han mantenido relevante en la industria, me han llevado de viaje mas de 5 veces en 1 año y me han dado un puesto de trabajo en Canadá en una de las Big Four. Así mismo, consejos sobre como sacarle provecho a estas tecnologías.",
+      "description" : "Haz escuchado hablar de gran hermano, de la novela de Orson Welles, bien, ya no es mas una novela de ficción, es la realidad pero no una realidad tan fatalista, podemos realizar programas geniales gracias a la recolección y reconocimiento de imágenes a través de la vision artificial; asemejándose al sentido de la vista, el cual es capaz de clasificar y/o estimar diferentes objetos y personas para tomar acciones respecto de ello. Cloud vision Api es una herramienta que te permite reconocer y obtener un resultado rápido y eficiente basado en redes neuronales entrenadas y alimentadas por las bases de datos que google a recolectado por años; y muchas cosas mas.",
       "language" : "Español",
       "presentation" : "",
-      "speakers" : [ "tatiana_molina" ],
-      "tags" : [ "Angular", "Google" ],
-      "title" : "Como mantenerte relevante en la industria gracias a Google Technologies."
+      "speakers" : [ "laura_ciro", "veronica_londono" ],
+      "tags" : [ "Cloud"],
+      "title" : "Cloud Vision: from dummy to demo"
     },
     "103" : {
       "description" : "El Machine Learning (ML) es uno de los conceptos mas revolucionarios y de gran importancia en los últimos años. Muchas empresas y Startups lo están integrando en sus productos y servicios. En la actualidad hacer uso del ML es mas fácil que antes. Firebase de Google lanzo en el último Google I/O su kit de ML para Android y iOS. Este kit tiene varias características de Vision ML, como reconocimiento de texto, detección de caras, lectura de código de barras entre otras. Además funciona on-device o por APIs. En esta conferencia hablaremos del Kit y como lo usamos en Android.",
@@ -417,23 +417,45 @@
       } ],
       "title" : "GDE Angular"
     },
-    "tatiana_molina" : {
-      "bio" : "Software Developer en Deloitte, trabajando con Angular. Con experiencia principalmente en desarrollo Web FrontEnd y Javascript. Organizadora de Angular Chile.",
-      "company" : "Deloitte",
-      "companyLogo" : "/images/logos/logo-deloitte.png",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/logo-deloitte.png?alt=media&token=07e46208-0891-47d5-9882-92112d7fd35e",
+    "laura_ciro" : {
+      "bio" : "Co-organizadora en @Pioneras-Dev , voluntaria en el equipo organizador de JSConf Colombia. Desarrolladora en Yuxi Global.‍ Con tecnologías como Angular, NodeJS, Ruby e ionic Me encanta el código, la música y la poesía. Ahhh y los gatos",
+      "company" : "Yuxi Global",
+      "companyLogo" : "/images/logos/yuxi_logo.jpg",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/yuxi_logo.jpg?alt=media&token=5852a06a-d063-4359-acd2-019709cd98c2",
       "country" : "Colombia",
       "featured" : true,
-      "name" : "Tatiana Molina",
-      "photo" : "/images/people/Tatiana_Molina.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/Tatiana_Molina.jpg?alt=media&token=2cb1507a-77f1-4aa4-a8a6-5560bf1f868e",
-      "shortBio" : "Software Developer en Deloitte, trabajando con Angular...",
+      "name" : "Laura Ciro",
+      "photo" : "/images/people/laura-ciro.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/laura-ciro.jpeg?alt=media&token=eee373bc-052b-41fd-bc0d-40de4c69589d",
+      "shortBio" : "Co-organizadora en @Pioneras-Dev , voluntaria...",
       "socials" : [{
         "icon" : "twitter",
-        "link" : "https://twitter.com/tatymolys",
+        "link" : "https://twitter.com/ltciro",
         "name" : "Twitter"
-      } ],
-      "title" : "Senior Developer at Deloitte"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/ltciro",
+        "name" : "GitHub"
+      }],
+      "title" : "Web Developer at Yuxi Global"
+    },
+    "veronica_londono" : {
+      "bio" : "🤔Wanderlust all time ✈️ 🏝⛰, education and studies 👩🏻‍💻, food 🧀🥙, exercise 🏃🏻‍♀️🎾💃🏻, 💆🏻healthy spirit and social life 🍻🎭🎼",
+      "company" : "Yuxi Global",
+      "companyLogo" : "/images/logos/yuxi_logo.jpg",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/veronica.jpg?alt=media&token=9da83369-437c-499e-9812-61da11ffe7f6",
+      "country" : "Colombia",
+      "featured" : true,
+      "name" : "Verronica Londoño",
+      "photo" : "/images/people/veronica.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/laura-ciro.jpeg?alt=media&token=eee373bc-052b-41fd-bc0d-40de4c69589d",
+      "shortBio" : "Wanderlust all time, education and studies...",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/vlondonoo",
+        "name" : "Twitter"
+      }],
+      "title" : "Web Developer at Yuxi Global"
     },
     "jorge_vergara" : {
       "bio" : "Trabaja con Firebase desde antes que Google los comprara y esta realmente maravillado de todo lo que se puede lograr con esta herramienta. Desarrollador móvil en Yuxi Global, ayuda con la organización del Meetup de Angular Medellín y cuando los nervios se lo permiten da charlas sobre Firebase y/o Ionic",
@@ -512,7 +534,7 @@
       "company" : "Ubroapps",
       "companyLogo" : "",
       "companyLogoUrl" : "",
-      "country" : "Colombia",
+      "country" : "México",
       "featured" : true,
       "name" : "Odalys Marrón",
       "photo" : "/images/people/odalys_marron.jpg",
@@ -727,7 +749,7 @@
         "name" : "Twitter"
       } ],
       "title" : "GDE Angular"
-    }, 
+    },
     "jorge_vergara" : {
       "bio" : "Mobile Developer Lead en Yuxi Global. Le gusta construir Apps en IonicFramework, Firebase y NativeScript.",
       "company" : "Yuxi Global",
