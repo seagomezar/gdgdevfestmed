@@ -425,7 +425,7 @@
       "country" : "Colombia",
       "featured" : true,
       "name" : "Laura Ciro",
-      "photo" : "/images/people/laura-ciro.jpg",
+      "photo" : "/images/people/laura_ciro.jpg",
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/laura-ciro.jpeg?alt=media&token=eee373bc-052b-41fd-bc0d-40de4c69589d",
       "shortBio" : "Co-organizadora en @Pioneras-Dev , voluntaria...",
       "socials" : [{
@@ -440,15 +440,15 @@
       "title" : "Web Developer at Yuxi Global"
     },
     "veronica_londono" : {
-      "bio" : "🤔Wanderlust all time ✈️ 🏝⛰, education and studies 👩🏻‍💻, food 🧀🥙, exercise 🏃🏻‍♀️🎾💃🏻, 💆🏻healthy spirit and social life 🍻🎭🎼",
+      "bio" : "Desarrolladora de software e ingeniera de profesión. Apasionada por los viajes ✈️ 🏝⛰, amante de la educación,  las nuevas tecnologías , precursora del aprendizaje y el conocimiento 👩🏻‍💻. Me encanta la comida 🧀🥙, el ejercicio 🎾💃🏻, 💆🏻 ademas de mantener un equilibrio entre el cuerpo la mente y el espíritu, 🍻🎭🎼  conservando una vida social bien activa",
       "company" : "Yuxi Global",
       "companyLogo" : "/images/logos/yuxi_logo.jpg",
       "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/veronica.jpg?alt=media&token=9da83369-437c-499e-9812-61da11ffe7f6",
       "country" : "Colombia",
       "featured" : true,
-      "name" : "Verronica Londoño",
-      "photo" : "/images/people/veronica.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/laura-ciro.jpeg?alt=media&token=eee373bc-052b-41fd-bc0d-40de4c69589d",
+      "name" : "Veronica Londoño",
+      "photo" : "/images/people/veronica_londono.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/veronica.jpg?alt=media&token=9da83369-437c-499e-9812-61da11ffe7f6",
       "shortBio" : "Wanderlust all time, education and studies...",
       "socials" : [{
         "icon" : "twitter",
