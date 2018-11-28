@@ -443,7 +443,7 @@
       "bio" : "Desarrolladora de software e ingeniera de profesión. Apasionada por los viajes ✈️ 🏝⛰, amante de la educación,  las nuevas tecnologías , precursora del aprendizaje y el conocimiento 👩🏻‍💻. Me encanta la comida 🧀🥙, el ejercicio 🎾💃🏻, 💆🏻 ademas de mantener un equilibrio entre el cuerpo la mente y el espíritu, 🍻🎭🎼  conservando una vida social bien activa",
       "company" : "Yuxi Global",
       "companyLogo" : "/images/logos/yuxi_logo.jpg",
-      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/veronica.jpg?alt=media&token=9da83369-437c-499e-9812-61da11ffe7f6",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/yuxi_logo.jpg?alt=media&token=5852a06a-d063-4359-acd2-019709cd98c2",
       "country" : "Colombia",
       "featured" : true,
       "name" : "Veronica Londoño",
@@ -610,7 +610,7 @@
       } ],
       "bio" : "Front-end Developer y Web UI en Globant",
       "photo" : "/images/people/vanessa_aristizabal.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/vanessa_aristizabal.JPG?alt=media&token=6213c31f-a61f-403d-91cd-561b13d72420",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/vanessa_aristizabal.jpg?alt=media&token=d5651283-9f68-4dd9-9fab-42d635ff2198",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/vanessamarely",
@@ -624,7 +624,84 @@
     }
    ],
     "title" : "Equipo principal"
-  } ],
+  },
+  {
+    "members" : [ {
+      "name" : "Diego Castro",
+      "bio" : "Web UI Developer en Globant",
+      "photo" : "/images/people/diego_castro.png",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/diego_castro.png?alt=media&token=d7beed61-f9b7-4621-b593-a3722452f1b0",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/diarcastro",
+        "name" : "Twitter"
+      }],
+      "title" : "Hero Volunteer GDG"
+    }, 
+    {
+      "name" : "Alejandra Giraldo",
+      "bio" : "Ingeniera Informática, Web developer Frontend Backend",
+      "photo" : "/images/people/alejandra_giraldo.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/alejandra_giraldo.jpg?alt=media&token=63ef9eb1-7c34-476e-8c9a-84e7b1015c0b",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/maleja111",
+        "name" : "Twitter"
+      }],
+      "title" : "Hero Volunteer GDG"
+    },
+    {
+      "name" : "Lina Uribe",
+      "bio" : "Mentora en  @coderiseorg. Miembro de @pionerasdev, @DataScienceFEM. Organizadora de @node_co & @droids4droidsCo",
+      "photo" : "/images/people/lina_uribe.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/lina_uribe.jpg?alt=media&token=46e8ec5f-d678-4715-834a-fbc92233878a",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/calypso_bronte",
+        "name" : "Twitter"
+      }],
+      "title" : "Hero Volunteer GDG"
+    },
+    {
+      "name" : "Diana Moreno",
+      "bio" : "Miembro de @pionerasdev",
+      "photo" : "/images/people/diana.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/diana.jpg?alt=media&token=62a3babe-2e3a-4a71-8fcc-e0820c0c2c8a",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Dmoreno_06",
+        "name" : "Twitter"
+      }],
+      "title" : "Hero Volunteer GDG"
+    },
+    {
+      "name" : "Mayerli Lopez",
+      "bio" : "Miembro de @pionerasdev",
+      "photo" : "/images/people/mayerli_lopez.jpeg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/mayerli_lopez.jpeg?alt=media&token=873e2d35-b0d2-4b7f-bb49-efa391d80998",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/maylopezga",
+        "name" : "Twitter"
+      }],
+      "title" : "Hero Volunteer GDG"
+    },
+    {
+      "name" : "Carolina Lopez",
+      "bio" : "Analista y desarrolladora de sistemas💻/ amo el fútbol ⚽/ la vida es una ✌/ ",
+      "photo" : "/images/people/carolina_lopez.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/carolina_lopez.jpg?alt=media&token=0a4dc4bc-31a0-4452-8793-b1666f02ccc4",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/diarcastro",
+        "name" : "Twitter"
+      }],
+      "title" : "Hero Volunteer GDG"
+    }
+   ],
+    "title" : "Voluntarios"
+  } 
+],
   "tickets" : [ {
     "available" : true,
     "currency" : "$",
