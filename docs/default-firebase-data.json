@@ -76,7 +76,13 @@
       "logoUrl" : "../images/logos/logo-endava.png",
       "name" : "Endava",
       "url" : "https://www.endava.com/"
-    }],
+    },
+    {
+      "logoUrl" : "../images/logos/logo_globant.svg",
+      "name" : "Globant",
+      "url" : "https://www.globant.com/"
+    }
+  ],
     "title" : "Patrocinadores Locales"
   } ],
   "schedule" : {
@@ -693,9 +699,50 @@
       "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/carolina_lopez.jpg?alt=media&token=0a4dc4bc-31a0-4452-8793-b1666f02ccc4",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/diarcastro",
+        "link" : "https://twitter.com/emicarito92",
         "name" : "Twitter"
       }],
+      "title" : "Hero Volunteer GDG"
+    },
+    {
+      "name" : "Maritza Pineda",
+      "bio" : "Web UI Globant",
+      "photo" : "/images/people/maritza.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/maritza.jpg?alt=media&token=eea6c66a-66eb-4363-b79c-65ced4690d7a",
+      "title" : "Hero Volunteer GDG"
+    },
+    {
+      "name" : "Leidy Gil",
+      "bio" : "QC Analyst Globant",
+      "photo" : "/images/people/leidy_gil.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/leidy_gil.jpg?alt=media&token=30b5c465-1ff7-4d86-af10-845a3d42bada",
+      "title" : "Hero Volunteer GDG"
+    },
+    {
+      "name" : "Camila Gómez",
+      "bio" : "Web Developer",
+      "photo" : "/images/people/camila_gomez.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/camila_gomez.jpg?alt=media&token=6dc159f5-42c0-4b18-96b6-b200a763817b",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Camigomez318",
+        "name" : "Twitter"
+      }],
+      "title" : "Hero Volunteer GDG"
+    },
+    {
+      "name" : "Elkin Contreras",
+      "bio" : "Web UI Developer en Globant",
+      "photo" : "/images/people/elkin.png",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/elkin.png?alt=media&token=2abbddb7-cdc1-49b0-a6e0-3ea4e9bc37d6",
+      
+      "title" : "Hero Volunteer GDG"
+    },
+    {
+      "name" : "Mauricio Arroyave",
+      "bio" : "Web UI Developer en Globant",
+      "photo" : "/images/people/mauricio.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfestmed2018.appspot.com/o/mauricio.jpg?alt=media&token=db1ffe1c-147b-4aee-9fd6-2bdd0dd9a8a1",
       "title" : "Hero Volunteer GDG"
     }
    ],
